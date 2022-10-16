@@ -1,22 +1,22 @@
 # line 0
 nomifactory.quest.line.0.title=The Beginning
-nomifactory.quest.line.0.desc=GregTech Low Voltage Tier: start building a factory!%n%nUnlock access to §bDeep Mob Learning§r, early §bEnderIO§r tech, and §bApplied Energistics 2§r Digital Storage.%n%nBuild an §3Electric Blast Furnace§r for smelting advanced materials and alloys.
+nomifactory.quest.line.0.desc=GregTech Low Voltage Tier: 工場の建築を始めましょう!%n%n§bDeep Mob Learning§rへのアクセスを解除したり, §bEnderIO§r と§bApplied Energistics 2§r のデジタルストレージを開発したり, %n%n 上位の材料や金属を精錬するために§3Electric Blast Furnace§r を作りましょう。
 
 # line 1
 nomifactory.quest.line.1.title=Early Game
-nomifactory.quest.line.1.desc=GregTech Medium Voltage Tier: new machines and rudimentary ore processing.%n%nOrganic Chemistry for §6Plastics§r, and build a §3Distillation Tower§r.%n%n§bApplied Energistics 2§r automation. Explore §bActually Additions§r.
+nomifactory.quest.line.1.desc=GregTech Medium Voltage Tier: 新しい機械と原始的な鉱石処理。%n%n §6Plastics§rのための有機化学, そして §3Distillation Tower§rの建築。%n%n §bApplied Energistics 2§r の自動化。 §bActually Additions§r を見ましょう。
 
 # line 2
 nomifactory.quest.line.2.title=Mid Game
-nomifactory.quest.line.2.desc=GregTech High Voltage, Extreme Voltage, and Insane Voltage tiers:%n%n§6§3Cryogenic Distillation§r, and petrochemistry for §6Epoxy§r and §9Nitro Diesel§r.%n%nCraft §6Nether Stars§r and unlock §bThermal Expansion§r machines.%n%nBuild a§b NuclearCraft§r fission reactor to obtain new materials.%n%nBuild a Space Station and Warp Core.
+nomifactory.quest.line.2.desc=GregTech High Voltage, Extreme Voltage, and Insane Voltage tiers:%n%n§6Epoxy§r そして §9Nitro Diesel§rのための§6§3Cryogenic Distillation§r,%n%nCraft §6Nether Stars§r と §bThermal Expansion§r 機械の解放のための 石油化学。%n%n新しい材料を得るために§b NuclearCraft§r の核分裂路を作りましょう。%n%宇宙ステーションとワープコアを作りましょう。
 
 # line 3
 nomifactory.quest.line.3.title=Progression
-nomifactory.quest.line.3.desc=It's always rewarding to take a step forward.%n%nThis tab outlines the progression of various things in §5Nomifactory§r.%n%nCircuits are the primary measure of your progress.
+nomifactory.quest.line.3.desc=一歩を踏み出すことは常にやりがいがあります。このタブでは、§5Nomifactory§r でのさまざまな進行状況の概要を説明します。%n%nCircuitは進行状況の主要な尺度です。
 
 # line 4
 nomifactory.quest.line.4.title=Late Game
-nomifactory.quest.line.4.desc=GregTech LuV, ZPM, and UV tiers:%n%nBuild §3Assembly Lines§r, §3Fusion Reactors§r, and more!%n%nAutomate in style with §bPackagedAuto§r. Climb the tiers of §6Micro Miners§r.%n%n§bDraconic Evolution§r for fusion crafting and energy storage.
+nomifactory.quest.line.4.desc=GregTech LuV, ZPM, and UV tiers:%n%n §3Assembly Lines§r, §3Fusion Reactors§r,などなどの建築 !%n%n §bPackagedAuto§rで自動化。 §6Micro Miners§rのTierを超えましょう！ %n%n Fusion Craftingとエネルギーストレージの為に §bDraconic Evolution§rがあります。
 
 # line 5
 nomifactory.quest.line.5.title=End Game
@@ -56,7 +56,7 @@ nomifactory.quest.db.2.desc=Note: this quest accepts both LV and MV Canning Mach
 
 # db 3
 nomifactory.quest.db.3.title=Genesis
-nomifactory.quest.db.3.desc=§5Nomifactory§fへようこそ!%n%nこのmodpackは§bLost Cities / Overworld dimension§fで遊ぶのを意図しています。%n%nIf you're playing with friends, don't forget to invite them to the §equestbook party§f.%n%n§fIf you wish to build your base in a skyblock world, place the §6Void World Cake§f down on the ground, and eat a slice to be sent to the void. Please note that you'll still need to return to the Lost Cities / Overworld dimension to mine, but you can freely build in complete safety in the §eVoid World§f.
+nomifactory.quest.db.3.desc=§5Nomifactory§fへようこそ!%n%nこのmodpackは§bLost Cities / Overworld dimension§fで遊ぶことを意図しています。%n%nもし友達と遊ぶときは彼らを§equestbook party§fに招待するのを忘れないでくださいね。%n%n§fIf you wish to build your base in a skyblock world, place the §6Void World Cake§f down on the ground, and eat a slice to be sent to the void. Please note that you'll still need to return to the Lost Cities / Overworld dimension to mine, but you can freely build in complete safety in the §eVoid World§f.
 
 # db 4
 nomifactory.quest.db.4.title=Iron Supply
