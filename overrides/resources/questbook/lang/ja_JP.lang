@@ -20,35 +20,36 @@ nomifactory.quest.line.4.desc=GregTech LuV, ZPM, and UV tiers:%n%n §3Assembly L
 
 # line 5
 nomifactory.quest.line.5.title=End Game
-nomifactory.quest.line.5.desc=You're in the endgame now...%n%nHarvest entire microverses and unlock the §dCreative Portable Tank§r.%n%nPut your automation to the ultimate test as you progress towards the final goal: the §dCreative Vending Upgrade§r.
+
+nomifactory.quest.line.5.desc=エンドゲームに入りました...。%n%nmicroversesであらゆるものを収穫、そして§dCreative Portable Tank§rを解放しましょう。%n%n最終ゴールである§dCreative Vending Upgrade§rに向けて究極の自動化をテストしましょう。
 
 # line 6
 nomifactory.quest.line.6.title=Genesis
-nomifactory.quest.line.6.desc=Welcome to §5Nomifactory§r, I'll be your guide.
+nomifactory.quest.line.6.desc=§5Nomifactory§rへようこそ。 私はあなたのガイドです。
 
 # line 7
 nomifactory.quest.line.7.title=Into The Microverse
-nomifactory.quest.line.7.desc=Get your feet wet with §bExtra Utilities§r and §bExtended Crafting§r.%n%nConquer The End or invest in §bEnderIO §rfor teleportation technologies.%n%nBuild a rocket and go to the Moon (or don't, but it's fun).%n%nEither way, it's time to start mining §emicroverses§r.
+nomifactory.quest.line.7.desc=手始めに§bExtra Utilities§r と §bExtended Crafting§rに触れていきましょう。%n%nThe End を征服するか、テレポートテクノロジーのために§bEnderIO §rに投資しましょう。%n%n月に行くためにロケットを組み立てたてましょう 。(ロケットがなくても遊べます)%n%nそのほかの方法は、 §emicroverses§rの採掘があります！
 
 # line 8
 nomifactory.quest.line.8.title=Fun With Fusion
-nomifactory.quest.line.8.desc=Create new elements and power your base with doughnuts!
+nomifactory.quest.line.8.desc=ドーナツはあなたの拠点に新たな元素や電力を作ってくれます!
 
 # line 9
 nomifactory.quest.line.9.title=Simulating Resources
-nomifactory.quest.line.9.desc=Generate resources with §bDeep Mob Learning§r!%n%nClose the production loop in MV for 100%% renewable resources!
+nomifactory.quest.line.9.desc=§bDeep Mob Learning§rで資源を生み出しましょう!%n%nMV で100%% 再生可能な資源を作り出せます!
 
 # line 10
 nomifactory.quest.line.10.title=Matter-Energy
-nomifactory.quest.line.10.desc=Convert between matter and energy with §bApplied Energistics§r§r.%n%nAutomate ALL the things! o/
+nomifactory.quest.line.10.desc=§bApplied Energistics§r§rで物質をエネルギーに変換しましょう。%n%n全てを自動化しちゃいましょう! o/
 
 # db 0
 nomifactory.quest.db.0.title=Charging Quartz
-nomifactory.quest.db.0.desc=The main purpose for this device is to turn §6Certus Quartz Crystal§r into §6Charged Certus Quartz Crystal§r.%n%nThis device can be powered with RF via energy conduits or use AE energy from a network via ME conduits or cables.%n%nIt accepts power from two sides. Which two sides? It's pretty easy to guess.%n%n%n%n%n%n%n%n%nOk, ok. It's the top and bottom.%n%n
+nomifactory.quest.db.0.desc=このデバイスの主な目的は、§6Certus Quartz Crystal§r を §6Charged Certus Quartz Crystal§r に変換することです。%n%nこのデバイスは、エネルギー コンジットを介して RF で電力を供給したり、ME コンジットまたはケーブルを介してネットワークから AE エネルギーを使用したりできます。 %n%n両側から電力を受け取ります。どの面からでしょう？推測するのはとても簡単です。%n%n%n%n%n%n%n%n%nそうですね、上と下です。%n%n
 
 # db 1
 nomifactory.quest.db.1.title=Crystal Growth Chamber
-nomifactory.quest.db.1.desc=The §3Crystal Growth Chamber§r allows you to perform §bApplied Energistics§r's world crafting recipes inside of a machine. Hooray, you never have to drop more things in water again!%n%nIt is used for growing §6Crystal Seeds§r into §6Pure Crystals§r, and also for creating §6Fluix Crystals§r.%n%nJEI doesn't show the Chamber's recipes directly, so we'll explain it here:%n%nSeeds are made by pulverizing any of the three crystal types and mixing the dust with sand. A seed grows into the corresponding Pure Crystal, which is substitutable for the original crystal in most recipes. Using Pure Crystals lets you effectively double your material efficiency, which is nice. And no, you can't grind down Pure Crystals to further multiply your resources. Sorry.%n%nFluix Crystals you've already had to make in a pool of water by now, and it's the same ingredients here: insert one each of a §6Redstone Dust§r, §6Charged Certus Quartz Crystal§r, and a §6Nether Quartz§r to produce two Fluix Crystals.
+nomifactory.quest.db.1.desc=§3Crystal Growth Chamber§r を使用すると、§bAppleid Energistics§r のインワールド・クラフトレシピをマシン内で実行できます。万歳！二度と水に物を落とす必要はありません!%n%nこれは、§6Crystal Seed§r を §6Pure Crystal§r に成長させるために使用され、また §6Fluix Crystal§r を作成するためにも使用されます。%n%nJEI ではこのレシピを直接見ることができません。レシピを直接ここで説明します:%n%nSeedは、3 種類の結晶のいずれかを粉砕し、粉と砂を混ぜて作られます。Seedは、対応するPure Crystalに成長します。これは、ほとんどのレシピで元のCrystalの代わりに使用できます。Pure Crystalを使用すると、材料効率が効果的に 2 倍になります。これは素晴らしいことです。ただし、Pure crystalを粉砕して資源をさらに増やすことはできません.申し訳ありません。%n%n水たまりで作成しなければならなかったFluix Crystalと同じ材料です: §6Redstone Dust§r、§6Chareged Certus Quartz§r、および§6Nether Quartz§r を使用して、2 つの Fluix Crystal を生成します。
 
 # db 2
 nomifactory.quest.db.2.title=Canning Machine and Assorted Stuff
