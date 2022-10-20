@@ -2581,7 +2581,7 @@ nomifactory.quest.db.809.desc=The §3Simulation Supercomputer§r is a multiblock
 
 # db 810
 nomifactory.quest.db.810.title=Sulfur
-nomifactory.quest.db.810.desc=§6Sulfur§r will be used in a variety of upcoming chemical reactions.%n%nIt can be electrolyzed easily from §6Sphalerite§r (which also provides §6Gallium§r), §6Cinnabar§r, and §6Pyrite§r. Alternately, Sulfur can be acquired through §bDeep Mob Learning§r- look into that quest line if you haven't already.
+nomifactory.quest.db.810.desc=§6Sulfur§rは、今後chemical reactionsでいろいろな方法で使います。%n%n §6Sphalerite§rを電気分解することで簡単に入手できるでしょう。 (§6Gallium§rも得ることができます), §6Cinnabar§r, と §6Pyrite§r。 その他だと, Sulfur は§bDeep Mob Learning§rでも入手することができます。- もしかしたらすでにこの方法で入手しているかもしれませんね。
 
 # db 811
 nomifactory.quest.db.811.title=Sulfur Ore
