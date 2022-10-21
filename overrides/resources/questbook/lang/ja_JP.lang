@@ -2364,7 +2364,7 @@ nomifactory.quest.db.755.title=Inspector Gadget
 nomifactory.quest.db.755.desc=This pack has §bBuilding Gadgets§r.%n%nThese devices can help you build, swap blocks, destroy massive areas, or even copy-paste regions. You need the blocks you plan to paste in your inventory though; it doesn't make them from nothing.%n%nAlso important to note that it won't work with TileEntities, so it pretty much only works with simple blocks (not stuff like machines).%n%nBy default, the config GUI is bound to §6G§r.
 
 # db 756
-nomifactory.quest.db.756.title=I Don't Like Chemistry
+nomifactory.quest.db.756.title=化学は好きじゃない
 nomifactory.quest.db.756.desc=...or, well, you might just do some exploration and kill a wild thermal elemental for a rod.%n%nUse it to craft a §aThermal Elemental Model§r. The rest of the dusts can be crafted from pristine matter.%n%nSaves you from having to make a bucket of §9Elemental Reduction Fluid§r if you're not playing on Peaceful.
 
 # db 757
@@ -2400,7 +2400,7 @@ nomifactory.quest.db.764.title=LV Circuits
 nomifactory.quest.db.764.desc=Circuits along this line are LV, and can all be substituted in recipes.%n%n§7Primitive Circuits§r are the worst in terms of cost and effort required to produce, but you have to start with something.%n%n§2Electronic Circuits§r are the middle layer between Primitive Circuits and Refined Circuits.%n%nAnd finally, §aRefined Circuits§r, which take the lowest effort and come in batches of four, but require polyethylene.%n
 
 # db 765
-nomifactory.quest.db.765.title=What is This?
+nomifactory.quest.db.765.title=なんだこれ？
 nomifactory.quest.db.765.desc=The Progression tab was added so you can keep track of the important bits of the pack.%n%nCircuits are the baseline of the entire Nomifactory progression, so keep climbing!
 
 # db 766
