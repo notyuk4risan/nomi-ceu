@@ -2437,7 +2437,7 @@ nomifactory.quest.db.773.desc=How did you end up here?
 
 # db 774
 nomifactory.quest.db.774.title=LV Lathe
-nomifactory.quest.db.774.desc=The §3Lathe§r is an important machine that makes rods less expensive to craft.
+nomifactory.quest.db.774.desc=§3Lathe§r は作成コストを下げるためにとても重要な機械です。
 
 # db 775
 nomifactory.quest.db.775.title=Multiblock Machine Previews
@@ -2449,7 +2449,7 @@ nomifactory.quest.db.776.desc=§6Awakened Cores§6§r are the third tier of §bD
 
 # db 777
 nomifactory.quest.db.777.title=Empowered Diamantine Gear
-nomifactory.quest.db.777.desc=A gear forged from §6Empowered Diamantine Crystal§6§r.%n%nMade from fluid solidification.
+nomifactory.quest.db.777.desc=§6Empowered Diamantine Crystal§6§rから成形されたGearです。%n%nfluid solidificationから作成可能です。
 
 # db 778
 nomifactory.quest.db.778.title=Power Storage on a Massive Level
@@ -2540,7 +2540,7 @@ nomifactory.quest.db.799.title=Signalum Satchel
 nomifactory.quest.db.799.desc=Carry a whole lotta stuff!
 
 # db 800
-nomifactory.quest.db.800.title="Seed Oil" or "Fish Oil" or "Canola Press"
+nomifactory.quest.db.800.title="Seed Oil" か、 "Fish Oil"、 もしくは "Canola Press"
 nomifactory.quest.db.800.desc=[easter egg]
 
 # db 801
@@ -2569,11 +2569,11 @@ nomifactory.quest.db.806.desc=§9Allyl Chloride§r provides an alternative means
 
 # db 807
 nomifactory.quest.db.807.title=Seed Oil
-nomifactory.quest.db.807.desc=Plant some crops, fluid extract some seeds, bam! §9Seed Oil§r.
+nomifactory.quest.db.807.desc=いくつかの植物を植えましょう。 いくつかの種を抽出しましょう！ バン! §9Seed Oil§rの出来上がり！
 
 # db 808
-nomifactory.quest.db.808.title=Discord and GitHub
-nomifactory.quest.db.808.desc=§5Nomifactory§r has an official Discord server which serves as a useful community resource.%n%nOn the server, the dev team posts links to in-depth guides on a variety of topics related to the pack, makes development announcements, assists with tech support questions, and investigates possible bug reports.%n%nYou can also chat with many fellow players there if you like, who are largely willing to help with general questions one might have.%n%nTo join the server, you can use the button on the Main Menu to go to the join URL, or if you're not into Discord you can find our projects on GitHub at our organization page: §9https://github.com/Nomifactory§r.%n%nIssue tracking and development, including many community-submitted guides, is handled on our respective GitHub project repositories.
+nomifactory.quest.db.808.title=Discord と GitHub
+nomifactory.quest.db.808.desc=§5Nomifactory§r とても使えるコミュニティの情報源である、公式Discordサーバーがあります。%n%nこのサーバには、 開発陣によるリンクや、このmodpackに関したより深いトピックやガイドがあります。 開発状況の案内や、 技術的な質問に対しての解答、 さらにバグに関して調査も行えます。%n%nYou can also chat with many fellow players there if you like, who are largely willing to help with general questions one might have.%n%nTo join the server, you can use the button on the Main Menu to go to the join URL, or if you're not into Discord you can find our projects on GitHub at our organization page: §9https://github.com/Nomifactory§r.%n%nIssue tracking and development, including many community-submitted guides, is handled on our respective GitHub project repositories.
 
 # db 809
 nomifactory.quest.db.809.title=Simulation Supercomputer
