@@ -2513,7 +2513,7 @@ nomifactory.quest.db.792.desc=§6Dynamite§r is an explosive made from §9Glycer
 
 # db 793
 nomifactory.quest.db.793.title=TNT
-nomifactory.quest.db.793.desc=§6TNT§r is an explosive made from §9Toluene§r, a distillation byproduct of §9Wood Tar§r or various §eSteam-Cracked Fuels§r. Besides its typical uses in Minecraft, it is a crafting ingredient you can use in the §3Implosion Compressor§r.%n%n§6Dynamite§r is an alternative explosive for the Implosion Compressor, though you need relatively more of them per craft.
+nomifactory.quest.db.793.desc=§6TNT§r は§9Toluene§rから作れる爆発物です, §9Wood Tar§rを蒸留するか §eSteam-Cracked Fuels§r様々な Besides its typical uses in Minecraft, it is a crafting ingredient you can use in the §3Implosion Compressor§r.%n%n§6Dynamite§r is an alternative explosive for the Implosion Compressor, though you need relatively more of them per craft.
 
 # db 794
 nomifactory.quest.db.794.title=TNT or Dynamite
@@ -2525,7 +2525,7 @@ nomifactory.quest.db.795.desc=The §6Advanced System-on-Chip§r (or §6ASoC§r) 
 
 # db 796
 nomifactory.quest.db.796.title=Naquadah Boules
-nomifactory.quest.db.796.desc=The §6Naquadah-Doped Boule§r is the final boule type and produces the most wafers per boule. It also is relatively cheap, due to the abundance of Naqudah that is gained from the §eTier 5 Micro Miner Mission§r.%n%nThis boule also allows the production of §6System on Chip§r and §6§6Advanced System on Chip§r wafers, which are used to make the final forms of the circuits very cheaply. However, you might not be able to take advantage of the §6Advanced System on Chip§r yet, due to the power requirements.
+nomifactory.quest.db.796.desc=§6Naquadah-Doped Boule§r は数種類あるうちの最後のBouleでかつ、bouleあたりのwafer生産数が多いです。 It also is relatively cheap, due to the abundance of Naqudah that is gained from the §eTier 5 Micro Miner Mission§r.%n%nThis boule also allows the production of §6System on Chip§r and §6§6Advanced System on Chip§r wafers, which are used to make the final forms of the circuits very cheaply. However, you might not be able to take advantage of the §6Advanced System on Chip§r yet, due to the power requirements.
 
 # db 797
 nomifactory.quest.db.797.title=System-on-Chip
@@ -2549,7 +2549,7 @@ nomifactory.quest.db.801.desc=The §6§3Pyrolyse Oven§r can make more interesti
 
 # db 802
 nomifactory.quest.db.802.title=Fusion Coils
-nomifactory.quest.db.802.desc=§6Fusion Coils§r are the ninth and final coil material available, increasing your EBF's operating temperature to 9700K so it can process the most extreme materials.%n%nThese are also used as the core ring of the §3Mk2§r and §3Mk3 Fusion Reactor§r.
+nomifactory.quest.db.802.desc=§6Fusion Coils§r は最終的には9段階のコイルがあります, EBFの温度を 9700K まであげることが可能です。 そして更なる素材を精錬することできるでしょう。%n%nThese are also used as the core ring of the §3Mk2§r and §3Mk3 Fusion Reactor§r.
 
 # db 803
 nomifactory.quest.db.803.title=Lost Cities and Registering Homes
@@ -2564,8 +2564,8 @@ nomifactory.quest.db.805.title=Genesis
 nomifactory.quest.db.805.desc=a quest
 
 # db 806
-nomifactory.quest.db.806.title=Allyl Chloride
-nomifactory.quest.db.806.desc=§9Allyl Chloride§r provides an alternative means of producing §9Epichlorohydrin§r for §9Epoxy§r.%n%nReacting §9Chlorine§r and §9Propene§r will produce Allyl Chloride. Propene is distilled in a §3Distillation Tower§r from any of various cracked petroleum products like §9Steam-Cracked Naphtha§r.
+nomifactory.quest.db.806.title=Allyl Chloride （塩化アリル）
+nomifactory.quest.db.806.desc=§9Allyl Chloride§r は §9Epoxy§r のための §9Epichlorohydrin§rを生産するときに副産物として作れます。 %n%n§9Chlorine§r と §9Propene§r を反応させることで Allyl Chlorideができるでしょう。 Propene is distilled in a §3Distillation Tower§r from any of various cracked petroleum products like §9Steam-Cracked Naphtha§r.
 
 # db 807
 nomifactory.quest.db.807.title=Seed Oil
