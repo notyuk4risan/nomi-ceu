@@ -1948,227 +1948,227 @@ nomifactory.quest.db.612.title=ZPM Compressor
 nomifactory.quest.db.612.desc=The ZPM tier §3Compressor§r is needed for the most advanced heavy plating types: §6Draconium§r and §6Crystal Matrix§r.
 
 # db 613
-nomifactory.quest.db.613.title=Element 001: Hydrogen
+nomifactory.quest.db.613.title=Element 001: Hydrogen（水素）
 nomifactory.quest.db.613.desc= 
 
 # db 614
-nomifactory.quest.db.614.title=Element 002: Helium
+nomifactory.quest.db.614.title=Element 002: Helium（ヘリウム）
 nomifactory.quest.db.614.desc= 
 
 # db 615
-nomifactory.quest.db.615.title=Element 003: Lithium
+nomifactory.quest.db.615.title=Element 003: Lithium（リチウム）
 nomifactory.quest.db.615.desc= 
 
 # db 616
-nomifactory.quest.db.616.title=Element 004: Beryllium
+nomifactory.quest.db.616.title=Element 004: Beryllium（ベリリウム）
 nomifactory.quest.db.616.desc= 
 
 # db 617
-nomifactory.quest.db.617.title=Element 005: Boron
+nomifactory.quest.db.617.title=Element 005: Boron（ホウ素）
 nomifactory.quest.db.617.desc= 
 
 # db 618
-nomifactory.quest.db.618.title=Element 006: Carbon
+nomifactory.quest.db.618.title=Element 006: Carbon（炭素）
 nomifactory.quest.db.618.desc= 
 
 # db 619
-nomifactory.quest.db.619.title=Element 007: Nitrogen
+nomifactory.quest.db.619.title=Element 007: Nitrogen（窒素）
 nomifactory.quest.db.619.desc= 
 
 # db 620
-nomifactory.quest.db.620.title=Element 008: Oxygen
+nomifactory.quest.db.620.title=Element 008: Oxygen（酸素）
 nomifactory.quest.db.620.desc= 
 
 # db 621
-nomifactory.quest.db.621.title=Element 009: Fluorine
+nomifactory.quest.db.621.title=Element 009: Fluorine（フッ素）
 nomifactory.quest.db.621.desc= 
 
 # db 622
-nomifactory.quest.db.622.title=Element 010: Neon
+nomifactory.quest.db.622.title=Element 010: Neon（ネオン）
 nomifactory.quest.db.622.desc= 
 
 # db 623
-nomifactory.quest.db.623.title=Element 011: Sodium
+nomifactory.quest.db.623.title=Element 011: Sodium（ナトリウム）
 nomifactory.quest.db.623.desc= 
 
 # db 624
-nomifactory.quest.db.624.title=Element 012: Magnesium
+nomifactory.quest.db.624.title=Element 012: Magnesium（マグネシウム）
 nomifactory.quest.db.624.desc= 
 
 # db 625
-nomifactory.quest.db.625.title=Element 013: Aluminium
+nomifactory.quest.db.625.title=Element 013: Aluminium（アルミニウム）
 nomifactory.quest.db.625.desc= 
 
 # db 626
-nomifactory.quest.db.626.title=Element 014: Silicon
+nomifactory.quest.db.626.title=Element 014: Silicon（ケイ素）
 nomifactory.quest.db.626.desc= 
 
 # db 627
-nomifactory.quest.db.627.title=Element 015: Phosphorus
+nomifactory.quest.db.627.title=Element 015: Phosphorus（リン）
 nomifactory.quest.db.627.desc= 
 
 # db 628
-nomifactory.quest.db.628.title=Element 016: Sulfur
+nomifactory.quest.db.628.title=Element 016: Sulfur（硫黄）
 nomifactory.quest.db.628.desc= 
 
 # db 629
-nomifactory.quest.db.629.title=Element 017: Chlorine
+nomifactory.quest.db.629.title=Element 017: Chlorine（塩素）
 nomifactory.quest.db.629.desc= 
 
 # db 630
-nomifactory.quest.db.630.title=Element 018: Argon
+nomifactory.quest.db.630.title=Element 018: Argon（アルゴン）
 nomifactory.quest.db.630.desc= 
 
 # db 631
-nomifactory.quest.db.631.title=Element 019: Potassium
+nomifactory.quest.db.631.title=Element 019: Potassium（カリウム）
 nomifactory.quest.db.631.desc= 
 
 # db 632
-nomifactory.quest.db.632.title=Element 020: Calcium
+nomifactory.quest.db.632.title=Element 020: Calcium（カルシウム）
 nomifactory.quest.db.632.desc= 
 
 # db 633
-nomifactory.quest.db.633.title=Element 057: Lanthanum
+nomifactory.quest.db.633.title=Element 057: Lanthanum（）
 nomifactory.quest.db.633.desc= 
 
 # db 634
-nomifactory.quest.db.634.title=Element 022: Titanium
+nomifactory.quest.db.634.title=Element 022: Titanium（チタニウム）
 nomifactory.quest.db.634.desc= 
 
 # db 635
-nomifactory.quest.db.635.title=Element 023: Vanadium
+nomifactory.quest.db.635.title=Element 023: Vanadium（バナジウム）
 nomifactory.quest.db.635.desc= 
 
 # db 636
-nomifactory.quest.db.636.title=Element 024: Chromium
+nomifactory.quest.db.636.title=Element 024: Chromium（クロム）
 nomifactory.quest.db.636.desc= 
 
 # db 637
-nomifactory.quest.db.637.title=Element 025: Manganese
+nomifactory.quest.db.637.title=Element 025: Manganese（マンガン）
 nomifactory.quest.db.637.desc= 
 
 # db 638
-nomifactory.quest.db.638.title=Element 026: Iron
+nomifactory.quest.db.638.title=Element 026: Iron（鉄）
 nomifactory.quest.db.638.desc= 
 
 # db 639
-nomifactory.quest.db.639.title=Element 027: Cobalt
+nomifactory.quest.db.639.title=Element 027: Cobalt（コバルト）
 nomifactory.quest.db.639.desc= 
 
 # db 640
-nomifactory.quest.db.640.title=Element 028: Nickel
+nomifactory.quest.db.640.title=Element 028: Nickel（ニッケル）
 nomifactory.quest.db.640.desc= 
 
 # db 641
-nomifactory.quest.db.641.title=Element 029: Copper
+nomifactory.quest.db.641.title=Element 029: Copper（銅）
 nomifactory.quest.db.641.desc= 
 
 # db 642
-nomifactory.quest.db.642.title=Element 030: Zinc
+nomifactory.quest.db.642.title=Element 030: Zinc（亜鉛）
 nomifactory.quest.db.642.desc= 
 
 # db 643
-nomifactory.quest.db.643.title=Element 031: Gallium
+nomifactory.quest.db.643.title=Element 031: Gallium（ガリウム）
 nomifactory.quest.db.643.desc= 
 
 # db 644
-nomifactory.quest.db.644.title=Element 033: Arsenic
+nomifactory.quest.db.644.title=Element 033: Arsenic（ヒ素）
 nomifactory.quest.db.644.desc= 
 
 # db 645
-nomifactory.quest.db.645.title=Element 036: Krypton
+nomifactory.quest.db.645.title=Element 036: Krypton（クリプトン）
 nomifactory.quest.db.645.desc= 
 
 # db 646
-nomifactory.quest.db.646.title=Element 039: Yttrium
+nomifactory.quest.db.646.title=Element 039: Yttrium（イットリウム）
 nomifactory.quest.db.646.desc= 
 
 # db 647
-nomifactory.quest.db.647.title=Element 046: Palladium
+nomifactory.quest.db.647.title=Element 046: Palladium（パラジウム）
 nomifactory.quest.db.647.desc= 
 
 # db 648
-nomifactory.quest.db.648.title=Element 047: Silver
+nomifactory.quest.db.648.title=Element 047: Silver（銀）
 nomifactory.quest.db.648.desc= 
 
 # db 649
-nomifactory.quest.db.649.title=Element 049: Indium
+nomifactory.quest.db.649.title=Element 049: Indium（インジウム）
 nomifactory.quest.db.649.desc= 
 
 # db 650
-nomifactory.quest.db.650.title=Element 050: Tin
+nomifactory.quest.db.650.title=Element 050: Tin（錫）
 nomifactory.quest.db.650.desc= 
 
 # db 651
-nomifactory.quest.db.651.title=Element 051: Antimony
+nomifactory.quest.db.651.title=Element 051: Antimony（アンチモン）
 nomifactory.quest.db.651.desc= 
 
 # db 652
-nomifactory.quest.db.652.title=Element 054: Xenon
+nomifactory.quest.db.652.title=Element 054: Xenon（キセノン）
 nomifactory.quest.db.652.desc= 
 
 # db 653
-nomifactory.quest.db.653.title=Element 074: Tungsten
+nomifactory.quest.db.653.title=Element 074: Tungsten（タングステン）
 nomifactory.quest.db.653.desc= 
 
 # db 654
-nomifactory.quest.db.654.title=Element 076: Osmium
+nomifactory.quest.db.654.title=Element 076: Osmium（オスミウム）
 nomifactory.quest.db.654.desc= 
 
 # db 655
-nomifactory.quest.db.655.title=Element 077: Iridium
+nomifactory.quest.db.655.title=Element 077: Iridium（イリジウム）
 nomifactory.quest.db.655.desc= 
 
 # db 656
-nomifactory.quest.db.656.title=Element 078: Platinum
+nomifactory.quest.db.656.title=Element 078: Platinum（プラチナ）
 nomifactory.quest.db.656.desc= 
 
 # db 657
-nomifactory.quest.db.657.title=Element 079: Gold
+nomifactory.quest.db.657.title=Element 079: Gold（金）
 nomifactory.quest.db.657.desc= 
 
 # db 658
-nomifactory.quest.db.658.title=Element 080: Mercury
+nomifactory.quest.db.658.title=Element 080: Mercury（水銀）
 nomifactory.quest.db.658.desc= 
 
 # db 659
-nomifactory.quest.db.659.title=Element 086: Radon
+nomifactory.quest.db.659.title=Element 086: Radon（ラドン）
 nomifactory.quest.db.659.desc= 
 
 # db 660
-nomifactory.quest.db.660.title=Element 090: Thorium
+nomifactory.quest.db.660.title=Element 090: Thorium（トリウム）
 nomifactory.quest.db.660.desc= 
 
 # db 661
-nomifactory.quest.db.661.title=Element 092: Uranium
+nomifactory.quest.db.661.title=Element 092: Uranium（ウラニウム）
 nomifactory.quest.db.661.desc= 
 
 # db 662
-nomifactory.quest.db.662.title=Element 093: Neptunium
+nomifactory.quest.db.662.title=Element 093: Neptunium（ネプチニウム）
 nomifactory.quest.db.662.desc= 
 
 # db 663
-nomifactory.quest.db.663.title=Element 094: Plutonium
+nomifactory.quest.db.663.title=Element 094: Plutonium（プルトニウム）
 nomifactory.quest.db.663.desc= 
 
 # db 664
-nomifactory.quest.db.664.title=Element 095: Americium
+nomifactory.quest.db.664.title=Element 095: Americium（アメリシウム）
 nomifactory.quest.db.664.desc= 
 
 # db 665
-nomifactory.quest.db.665.title=Element 096: Curium
+nomifactory.quest.db.665.title=Element 096: Curium（キュリウム）
 nomifactory.quest.db.665.desc= 
 
 # db 666
-nomifactory.quest.db.666.title=Element 097: Berkelium
+nomifactory.quest.db.666.title=Element 097: Berkelium（）
 nomifactory.quest.db.666.desc= 
 
 # db 667
-nomifactory.quest.db.667.title=Element 098: Californium
+nomifactory.quest.db.667.title=Element 098: Californium（カルフォルニウム）
 nomifactory.quest.db.667.desc= 
 
 # db 668
-nomifactory.quest.db.668.title=Element 099: Einsteinium
+nomifactory.quest.db.668.title=Element 099: Einsteinium（アインシュタニウム）
 nomifactory.quest.db.668.desc= 
 
 # db 669
@@ -2220,7 +2220,7 @@ nomifactory.quest.db.680.title=Further Adventures In Fission
 nomifactory.quest.db.680.desc=Now that you have all the basic building blocks of nuclear fission, you'll need to start creating breeding chains to mass produced stabilized versions of each element, for the synthesis of §dOmnium§r.%n%nExperiment around with larger breeder reactors that can handle highly enriched fuels.%n%nYou'll probably want to build multiple reactors to make all the fissile elements in any reasonable amount of time.
 
 # db 681
-nomifactory.quest.db.681.title=Implosion Compressor
+nomifactory.quest.db.681.title=爆縮
 nomifactory.quest.db.681.desc=The §aImplosion Compressor§f is like an autoclave that uses explosions instead of water. It is the only way to turn most gem dusts into gemstones.%n%nIt will also be vital for processing §5Motes of Omnium§f.%n%nIn addition to the controller and casings, you will need one §eLV or better§r §6Item Input Bus§r, §6Item Output Bus§r, and §6Energy Input Hatch§r.
 
 # db 682
@@ -2284,7 +2284,7 @@ nomifactory.quest.db.696.title=Naquadah Reactor Mk2
 nomifactory.quest.db.696.desc=The §3Naquadah Reactor Mk2§r is an upgraded reactor that can generate immense amounts of EU energy from the same types of fuels as the Mk1. The materials it requires are similar to the Mk1, and you can almost reuse the same structure. Make sure you are prepared for the UV power output by adding a §6UV Energy Output Hatch§r.%n%nThis is a pretty expensive structure though, as it needs blocks of §dOmnium§r. Maybe wait until after you get the §dCreative Portable Tank§r?%n%n§6Sneak-right click§r the controller to enable the in-world preview.
 
 # db 727
-nomifactory.quest.db.727.title=Ore Processing for Byproducts
+nomifactory.quest.db.727.title=副産物のための鉱石処理
 nomifactory.quest.db.727.desc=When you first started the pack, we told you that ore doubling can wait, and that's true... But you will need to start doing some rudimentary ore processing for §ebyproducts§r.%n%nByproducts are additional materials that can only be obtained from processing ores in certain machines. For example, there is no "Gallium Ore". You get §6Gallium§r as a byproduct from processing other ores.%n%nOres have various means of processing, and eventually you'll use machine pipelines to process ores in specific ways to optimize what byproducts you gain. You can look at the §b§b§6Ore Byproduct Page§6§r of an ore in §bJEI§r, accessed by pressing 'U' on an ore and navigating to the byproduct tab, to see the required route to obtain desired byproducts. The tooltips on a byproduct will specify what processing method is needed to obtain it.%n%nThe relevant machines are as follows:%n %n- §3Macerator§r: turns ores into §6Crushed Ores§r, Crushed Ores into §6Impure Dusts§r, and §6Purified Crushed Ores§r into §6Pure Dusts§r. Higher tiers of macerators have byproduct slots and gain a chance to get a full pile of byproduct from ores and both types of crushed ores.%n%n- §3Washer§r: cleans Crushed Ores with §9Water§r, making Purified Crushed Ores§r, and a guaranteed 3 tiny piles of byproduct. Using §9Distilled Water§r makes them go faster. This is an improved alternative to dropping dusts in a Cauldron.%n%n- §3Chemical Bath§r: similar to a washer, but uses chemicals to purify the crushed ores. Has a chance to give a full pile of byproducts, often different than what the Washer would give.%n%n- §3§3Centrifuge§r: separates Pure or Impure dusts into the final material, producing a guaranteed 3 tiny piles of byproduct.%n%n- §3Electrolyzer§r: uses power to split compounds into individual elements, sometimes gaining useful byproducts in the process.%n%nThe §3Thermal Centrifuge§r, not to be confused with the regular Centrifuge, can be used for alternative ore processing but is §edreadfully slow and power-hungry§r. No LV form exists, and its primary use is for §bNuclearCraft§r fission fuels.%n%nYour first forays into ore processing for byproducts will be the Electrolyzer and the Centrifuge.%n
 
 # db 728
@@ -2296,11 +2296,11 @@ nomifactory.quest.db.729.title=Fluid Interface
 nomifactory.quest.db.729.desc=This is the fluid counterpart to the standard §aME Interface§r.%n%nFluids inserted into it are automatically digitized into the network, though it does have internal storage that can back up if you run out of space.%n%nYou can configure the interface to stock up to six different fluids (or for faster throughput later on, several tanks of the same fluid). You can use §aPump covers§r on §bGregTech§r machines to pull fluids from or extract fluids into an interface. This is useful for routing fluids if you're already using the output side for items or a different fluid.%n%nIt is also far more performant and scales better without lag than §aFluid Import/Export Buses§r.
 
 # db 730
-nomifactory.quest.db.730.title=Fluids and Autocrafting
+nomifactory.quest.db.730.title=液体と自動クラフト
 nomifactory.quest.db.730.desc=Working with fluids is a bit tricky. AE2 §aPatterns§r have no notion of fluids, meaning that you have to §ededicate separate machines to specific fluid combinations§r, ensuring they remain stocked.%n%nAE2 has a §aFluid Import Bus§r and §aFluid Export Bus§r, and this is the usual go-to for players experienced with AE2. A §aCapacity Card§r will let you export or import five specific chemicals through a single bus, which is enough for, say, §3Chemical Reactors§r. However, §cexcessive use of AE2 buses will cause lag§r.%n%nA better approach for §bGregTech§r machines is using a stocked §aFluid Interface§r and a §aPump§r or a §aFluid Regulator§r. This works almost identically to passive autocrafting with Robot Arms, and §aFluid Filters§r can allow routing specific fluids to adjacent machines. This method is much more performant, scaling without causing lag like buses. For machines from other mods, you can route fluids from a Fluid Interface with conduits.%n%n
 
 # db 731
-nomifactory.quest.db.731.title=Fluid Logistics
+nomifactory.quest.db.731.title=液体の物流管理
 nomifactory.quest.db.731.desc=Your §3Chemical Reactors§r will be making a lot of different fluids. You'll need to manage the logistics of routing and storing all the different fluids you're automating.%n%nWherever possible, having one Chemical Reactor output directly into another machine that needs its output chemical saves you from having to figure out additional storage and routing. §aFluid Filters§r and §aPump covers§r are very useful for moving fluids around a compact processing pipeline.%n%nBut what about the final output fluids that you need elsewhere?%n%nOne option is to use the output tanks of the Chemical Reactors as a small storage buffer, letting it back up and stop crafting automatically. A §aFluid Storage Bus§r on the machine will expose the fluid to your ME Network. Whenever you need some of this fluid, your AE2 system will pull the needed fluid out and the machine will resume processing.%n%nThere's some catches with this approach though. First is that the inaccessible input tanks will also show up in AE but you won't be able to access them. You will want to set the Storage Bus to §eExport Only§r so AE doesn't try to store random fluids in the Chemical Reactor, and you may want to §ereduce the priority§r of the Storage Bus as well: this will signal to AE that you want it to remove fluids from that location first. Also, if multiple fluids are produced, §ethe machine will not resume processing if it doesn't have room for all fluid outputs§r.%n%nWhen you get access to them, it's probably just better to use single-fluid-formatted §aFluid Storage Cells§r and dump outputs into AE via Fluid Interfaces. You can fill up the cells, then pull the fluids out wherever else you need them.%n%n
 
 # db 732
@@ -2344,7 +2344,7 @@ nomifactory.quest.db.750.title=Enderium Ingot
 nomifactory.quest.db.750.desc=A complex material from §bThermal Expansion§r cooked in an §3Electric Blast Furnace§r.%n%n§6Enderium§r doesn't require much power (running on as little as MV) but it does need a lot of heat and is incredibly slow without overclocking.%n%nAs with all later blast furnace materials, dedicate a furnace to keeping these in stock and have it running constantly to ensure a stable supply (turning it off when you have an acceptably vast stockpile).%n%nIn addition to its other uses, Enderium gets you access to §aResonant Upgrade Kits§r for machines and the §6Resonant Satchel§r. These quests can be found on the §eProgression§r tab.%n%n
 
 # db 751
-nomifactory.quest.db.751.title=Infinitest Water
+nomifactory.quest.db.751.title=無限水源
 nomifactory.quest.db.751.desc=§3Aqueous Accumulators§r in §5Nomifactory§r are infinite water sources; they §l§ndo not§r require any water blocks nearby.%n%nThis machine can produce §9Water§r as fast as you can extract it (the only downside being that it makes some annoying noises).%n%nFriendship with §aEndervoirs§r ended.
 
 # db 752
@@ -2384,7 +2384,7 @@ nomifactory.quest.db.760.title=The Outer Islands
 nomifactory.quest.db.760.desc=Now that you've dealt with the dragon, seek the bedrock structure floating mid-air around the edge of the main island.%n%nCarefully throw an §6Ender Pearl§r inside one (where there's a portal-looking texture) to teleport to a distant island.%n%nOnce there, gather some §6Chorus Flowers§r. You'll have to smash the flower itself to get it: simply breaking the stem of a plant will not drop the flower.%n%nAnd finally, obtain some §6Draconium Dust§r. Its ore spawns in small quantities, but should be everywhere.%n%nTo get back to the main island, throw an Ender Pearl into another bedrock portal structure.%n%n
 
 # db 761
-nomifactory.quest.db.761.title=Thinking with Dislocators
+nomifactory.quest.db.761.title=転位について考える
 nomifactory.quest.db.761.desc=§6Dislocator Pedestals§f are a very simple way of inter-dimensional transport.%n%nHold a §6Dislocator§f in your hand and §6sneak-right click§f to bind it to your position. Now, place it inside a Pedestal so you can travel to the bound spot anytime you want.%n%nBefore going to the Moon, you'll need §etwo Dislocators§f and §etwo Pedestals§f.%n%nBind one Dislocator to a location in the Overworld, then take it with you to the Moon and put it down on a Pedestal.%n%nBind the other Dislocator to a location on the Moon, then use the first Pedestal to return home. Place the second Dislocator on the second Pedestal, then you can warp between the two locations at will. Neat!%n%n§aTip: Dislocators don't lose durability on use when placed in a Pedestal!
 
 # db 762
@@ -2477,7 +2477,7 @@ nomifactory.quest.db.783.desc=⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀�
 
 # db 784
 nomifactory.quest.db.784.title=ME Cables
-nomifactory.quest.db.784.desc=These are the basic cables used by §3Applied Energistics§r to transport network connectivity. Due to the fact that channels are disabled, these cables will be your main method of transporting network connectivity, rather than the dense cables.%n%nThese cables do not share blockspace with conduits or cables for other mods, so they can be somewhat unweildy to build with, but they do accept §3Applied Energistics§r§6§r §6Facades§r, so they can be hidden very easily.%n%nLater you can make a variant of the cable that can share blockspace with §3Ender IO§r conduits.
+nomifactory.quest.db.784.desc=これは基本的に§3Applied Energistics§rで使われるケーブルです。 ネットワークに繋ぐだけで運送できます。 Due to the fact that channels are disabled, these cables will be your main method of transporting network connectivity, rather than the dense cables.%n%nThese cables do not share blockspace with conduits or cables for other mods, so they can be somewhat unweildy to build with, but they do accept §3Applied Energistics§r§6§r §6Facades§r, so they can be hidden very easily.%n%nLater you can make a variant of the cable that can share blockspace with §3Ender IO§r conduits.
 
 # db 785
 nomifactory.quest.db.785.title=New Cable Coverings
@@ -2485,7 +2485,7 @@ nomifactory.quest.db.785.desc=§9Rubber§r has been sufficient for making cables
 
 # db 786
 nomifactory.quest.db.786.title=Effortless Building
-nomifactory.quest.db.786.desc=§bEffortless Building§r is a mod that makes it much easier to build. You can create large platforms or various other shapes in just a few clicks, and even build multiple identical structures at the same time!%n%nTo use §bEffortless Building§r, start by pressing and holding the §6Alt§r key. This opens a wheel-shaped menu displaying §especial building modes§r. With this menu open, simply move your cursor over the desired building mode and release §6Alt§r. This will select that mode and you can begin building.%n%nChoose the starting location for your shape by §6right-clicking§r on a blockspace while holding your desired building block. Next, move your cursor to another blockspace to see a preview of the final structure. §6Right-click§r again on the desired ending block to actually build the shape from blocks in your inventory.%n%nMost shapes are flat and are defined using a starting and ending location, but 3D shapes have a third location to complete the shape. Some special modes also have §eoptions§r, like making a §ehollow cube§r instead of a §efilled cube§r.%n%nIf you made a mistake, you can use the §aUndo§r button in the menu to break the blocks you just placed so you can collect them and try again.%n%nTo change building modes, just open the menu with §6Alt§r as before and pick a different one. To exit the special building modes, select the §eNormal§r mode.%n%n§cMake sure you return to Normal mode when you're done building shapes, since the special building modes will interfere with normal gameplay.§r%n%nThe size of shapes you can make in special building modes is limited by your §ereach§r, which is how far away you can click from yourself to start building, or from the previous location to complete a shape. You can craft and eat several tiers of §areach upgrades§r in succession to increase your reach to very high numbers.%n%nOverall, §bEffortless Building§r is a powerful mod that is very useful for construction. Experiment with it and you'll see how much time it can save you!
+nomifactory.quest.db.786.desc=§bEffortless Building§r は建築をとても簡単にするmodです！ これがあれば大きな足場やさまざまな形状をたった数クリックで作ることができます。 and even build multiple identical structures at the same time!%n%nTo use §bEffortless Building§r, start by pressing and holding the §6Alt§r key. This opens a wheel-shaped menu displaying §especial building modes§r. With this menu open, simply move your cursor over the desired building mode and release §6Alt§r. This will select that mode and you can begin building.%n%nChoose the starting location for your shape by §6right-clicking§r on a blockspace while holding your desired building block. Next, move your cursor to another blockspace to see a preview of the final structure. §6Right-click§r again on the desired ending block to actually build the shape from blocks in your inventory.%n%nMost shapes are flat and are defined using a starting and ending location, but 3D shapes have a third location to complete the shape. Some special modes also have §eoptions§r, like making a §ehollow cube§r instead of a §efilled cube§r.%n%nIf you made a mistake, you can use the §aUndo§r button in the menu to break the blocks you just placed so you can collect them and try again.%n%nTo change building modes, just open the menu with §6Alt§r as before and pick a different one. To exit the special building modes, select the §eNormal§r mode.%n%n§cMake sure you return to Normal mode when you're done building shapes, since the special building modes will interfere with normal gameplay.§r%n%nThe size of shapes you can make in special building modes is limited by your §ereach§r, which is how far away you can click from yourself to start building, or from the previous location to complete a shape. You can craft and eat several tiers of §areach upgrades§r in succession to increase your reach to very high numbers.%n%nOverall, §bEffortless Building§r is a powerful mod that is very useful for construction. Experiment with it and you'll see how much time it can save you!
 
 # db 787
 nomifactory.quest.db.787.title=Farming Station
@@ -2537,14 +2537,14 @@ nomifactory.quest.db.798.desc=§6Sunnarium§r is an alloy formed from §6Stabili
 
 # db 799
 nomifactory.quest.db.799.title=Signalum Satchel
-nomifactory.quest.db.799.desc=Carry a whole lotta stuff!
+nomifactory.quest.db.799.desc=たくさんの物を持ち運べる！
 
 # db 800
 nomifactory.quest.db.800.title="Seed Oil" か、 "Fish Oil"、 もしくは "Canola Press"
 nomifactory.quest.db.800.desc=[easter egg]
 
 # db 801
-nomifactory.quest.db.801.title=Pyrolyse Products
+nomifactory.quest.db.801.title=加熱生産
 nomifactory.quest.db.801.desc=The §6§3Pyrolyse Oven§r can make more interesting products than just §9Phenol§r.%n%n§a§9Charcoal Byproducts§r breaks down into various wood products, such as§9 Wood Tar§r,§9 Wood Gas§r, and §a§9Wood Vinegar§r, each of which can be further broken down into various useful chemical compounds, such as §a§9Toluene§r, §a§9Methanol§r, etc.%n%nHowever, to take full advantage of decomposing these wood products, a §6§3Distillation Tower§r is required, so that all possible outputs can be obtained. You will need more§e Distillation Tower Slices§r than requested in the§r Distillation Tower quest, so be prepared to spend some more §6Stainless Steel§r.
 
 # db 802
