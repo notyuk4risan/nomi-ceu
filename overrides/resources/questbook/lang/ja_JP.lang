@@ -441,7 +441,7 @@ nomifactory.quest.db.102.desc=§6Logic Processor§r は、§6Gold Plate§r、§6
 
 # db 103
 nomifactory.quest.db.103.title=Inscription Plates
-nomifactory.quest.db.103.desc=§aPresses§r are needed for §3Inscribers§r.%n%nIf you like exploring you can find them in meteors with a §aMeteor Compass§r.%n%nIf you don't want to do that, or are having trouble finding one you need, feel free to etch them yourself with a §3Precision Laser Engraver§r.
+nomifactory.quest.db.103.desc=§aPress§r は §3Inscribers§r に必要です。%n%n探索が好きなら、§aMeteor Compass§r を使って隕石を見つけることができます。%n%nそうしたくない場合、または見つけるのに苦労している場合 必要なものがあれば、§3Precision Laser Engraver§r で自由にエッチングしてください。
 
 # db 104
 nomifactory.quest.db.104.title=Autocrafting Patterns
