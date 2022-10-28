@@ -437,7 +437,7 @@ nomifactory.quest.db.101.desc=*Slaps §6ME Drive§r* this bad boy can fit so man
 
 # db 102
 nomifactory.quest.db.102.title=Logic Processor
-nomifactory.quest.db.102.desc=§6Logic Processors§r are made from a §6Gold Plate§r, a §6Silicon Plate§r, and any tier one circuit.%n%nRun the plates through the respective §3Inscribers§r with §aPresses§r to make the printed plates, then combine the plates and circuit to form the Logic Processor.
+nomifactory.quest.db.102.desc=§6Logic Processor§r は、§6Gold Plate§r、§6Siricon Plate§r、および任意のTier 1 回路から作成されます。%n%nそれぞれの §3Inscribe§r に §aPress§r を使用してPlateを結合し、Printed plateを作成します。 次にプレートと回路を組み合わせてLogic Processorを作成します。
 
 # db 103
 nomifactory.quest.db.103.title=Inscription Plates
