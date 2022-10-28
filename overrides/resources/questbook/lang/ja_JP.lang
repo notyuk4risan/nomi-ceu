@@ -65,19 +65,18 @@ nomifactory.quest.db.4.desc=§c§r§5Nomifactory§f の鉱石は大きなクラ�
 
 # db 5
 nomifactory.quest.db.5.title=Mining Hammers
-nomifactory.quest.db.5.desc=§aMining Hammers§r offer a relatively cheap way to mine out areas much faster. They clear a 3x3 of blocks and mine quickly, so they're absolutely worth investing your first few ingots of metal into§..%n%n§6Stone§f is the cheapest Mining Hammer, but naturally it breaks quickly. Since you have some §6Iron§f already, consider using those on your first few mining expeditions.%n%nThe best Mining Hammers are §6Diamond§f and §6Platinum§f. Other Mining Hammers are also good but wear out more quickly.
-
+nomifactory.quest.db.5.desc=§aMining Hammer§r は、範囲をより速く採掘するための比較的安価な方法を提供します。 彼らは 3x3 のブロックを採掘し、しかもすばやいので、最初の数本の金属インゴットを§..%n%n§6Stone§ に投資する価値は絶対にあります。 §6Iron§f をすでにいくつか持っているのであれば、最初の数回の採掘遠征でそれらを使用することを検討してください。%n%n最高のMining Hammerは §6Diamond§f と §6Platinum§f です。他のハンマーも優れていますが、より早く消耗します。
 # db 6
 nomifactory.quest.db.6.title=More Materials
-nomifactory.quest.db.6.desc=Before you continue, you'll need access to some more materials.%n%n§6Redstone§f: Found only deep in the world, in massive veins paired with §6Cinnabar§f and §6Ruby§f.%n%n§6Copper§f: Two primary sources. §6Tetrahedrite§f veins are higher up, while §6Chalcopyrite§f veins are lower, paired with some small amounts of §6Iron§f. You'll also find §6Malachite§f inside of Iron veins, this is another type of copper ore.%n%n§6Tin§f: Found essentially at ground level, and almost always detectable by §aScanner§f from the surface. §6Cassiterite§f is another type of tin ore, and they're always found together. If you cannot find a vein of tin, there are small amounts of tin inside veins of §6Aluminium§f and §6Rock Salt§f, which might be enough to hold you over until you find a proper tin vein.%n%n§6Coal§f: Found in relatively shallow depths. §6Lignite Coal§f is just a less pure and less effective form of Coal.%n%n§6Gold§f: Found inside of §6Magnetite§f veins, close to the surface.
+nomifactory.quest.db.6.desc=続行する前に、さらにいくつかの材料にアクセスする必要があります.%n%n§6Redstone§f: 世界の奥深くでのみ発見され、§6Cinnabar§f と §6Ruby§f と2つの巨大な鉱脈の中にあります。%n%n§6Copper§f: 2つの主要な資源。 §6Tetrahedrite§f 鉱脈は上にあり、§6Chalcopyrite§f 鉱脈は下にあり、少量の §6Iron§f と対になっています。また、Iron鉱脈の中に §6Malachite§f があります。これは別の種類のCopper鉱石です。%n%n§6Tin§f: 基本的に地表レベルで発見され、地表からはほとんど常に §aスキャナー§f で検出可能です。 §6Cassiterite§f は別の種類のTin鉱石であり、常に一緒に発見されます。Tin鉱脈が見つからない場合は、§6Aluminium§f と §Rock Salt§f の鉱脈の中に少量のTinがあり、適切なTinの鉱脈が見つかるまで十分に耐えられるかもしれません.%n%n§ 6Coalf: 比較的浅い深さで見つけられます。 §6Lignite Coal§f は純粋でなく、効率の悪い石炭です。%n%n§6Gold§f: §6Magnetite§f 鉱脈の内部、地表近くにあります。
 
 # db 7
 nomifactory.quest.db.7.title=Cables
-nomifactory.quest.db.7.desc=The most basic cables, such as these §6Red Alloy Cables§f, can be wrapped in their §6Rubber§f insulation by hand.%n%nMore advanced types of cables will require an §3Assembling Machine§f and liquid §9Rubber§f, but you can do it the simple way for now.
+nomifactory.quest.db.7.desc=これらの §6Red Alloy Cable§f のような最も基本的なケーブルは、手で §6Rubber§f 絶縁体に巻き付けることができます。%n%nより高度なタイプのケーブルには、§3Assembling Machine§f と液体 §9Rubber§f が必要です。 しかし、今のところ簡単な方法で行うことができます。
 
 # db 8
 nomifactory.quest.db.8.title=The Third Tier Three Circuits
-nomifactory.quest.db.8.desc=With three §6Microcircuits§r and some standard components, you can upgrade to the penultimate Tier Three circuit: a §6Microprocessor§r.
+nomifactory.quest.db.8.desc=3 つの §6Microcircuit§r といくつかのStandard componentを使用すると、最後から 2 番目の、Tier3回路である §6Microprocessor§r にアップグレードできます。
 
 # db 9
 nomifactory.quest.db.9.title=Ore Doubling?
