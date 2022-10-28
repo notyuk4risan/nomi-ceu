@@ -445,7 +445,8 @@ nomifactory.quest.db.103.desc=§aPress§r は §3Inscribers§r に必要です�
 
 # db 104
 nomifactory.quest.db.104.title=Autocrafting Patterns
-nomifactory.quest.db.104.desc=§aPatterns§r are used to encode a single crafting table or processing recipe for on-demand automation with §bApplied Energistics§r.%n%nEncode them in a §aPattern Terminal§r.%n%nNote that recipes encoded with Substitutions on will use existing equivalent items, but §ewill only automatically craft the exact item specified in the recipe.§r%n%nIt is also a §cvery bad idea§r to encode recipes that require GregTech hand tools (even worse with Substitutions on). They are not handled gracefully, causing your crafting computations to explode in complexity and memory requirement.%n%nUse recipes that use machines instead!%n%n
+nomifactory.quest.db.104.desc=パターン§r は、 §bApplied Energistics§r の§aPattern Terminal§r で使います。%n%nそれらをエンコードするオンデマンド自動化のための単一のクラフト テーブルまたは処理レシピを登録して使います。 
+%n%n鉱石置換をオンにして登録されたレシピは、 既存の同等のアイテムを使用しますが、§eレシピで指定された正確なアイテムのみを自動的に作成します.§r%n%nGregTechハンドツールを必要とするレシピをエンコードすることも§c非常に悪い考えです§r (Substitutionsがオンの場合はさらに悪いです)。 それらは適切に処理されないため、作成計算の複雑さとメモリ要件が爆発的に増大します。%n%n代わりにGregtech機械を使用するレシピをご使用ください!%n%n
 
 # db 105
 nomifactory.quest.db.105.title=Calculation Processor
