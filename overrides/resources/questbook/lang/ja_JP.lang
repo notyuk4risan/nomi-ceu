@@ -79,8 +79,8 @@ nomifactory.quest.db.8.title=The Third Tier Three Circuits
 nomifactory.quest.db.8.desc=3 つの §6Microcircuit§r といくつかのStandard componentを使用すると、最後から 2 番目の、Tier3回路である §6Microprocessor§r にアップグレードできます。
 
 # db 9
-nomifactory.quest.db.9.title=Ore Doubling?
-nomifactory.quest.db.9.desc=In most expert packs, you want to try to process as little ore as possible before you get access to ore doubling. It's a habit most of us pick up.%n%n§eYou shouldn't feel any pressure to do that in Nomifactory, though§f. Ore veins are massive, and mining is extremely fast with §aMining Hammers§f. What's more, even once you get access to §3Macerators§f, they initially process ore slowly and require power to operate.%n%nObvious exceptions would be rare materials or anything you buy with §dOmnicoins §fbecause you can't find it. Those are worth doubling, if possible.%n%nBut at least for now, you shouldn't feel any guilt about smelting the more common ores without doubling them! §eOre doubling can be safely ignored until you have Medium Voltage machines or even later.§r
+nomifactory.quest.db.9.title=鉱石 2倍化?
+nomifactory.quest.db.9.desc=ほとんどのエキスパートパックでは、鉱石の倍増にアクセスする前に、できるだけ少ない鉱石を処理しようとします。それは私たちのほとんどの人の癖です。%n%n§eNomifactoryでそれをするプレッシャーを感じるべきではありませんが、§f。鉱脈は巨大で、採掘は§aMining Hammers§fで非常に高速です。さらに、§3Macerators§fにアクセスしても、最初は鉱石をゆっくりと処理し、動作に電力が必要です。%n%n明らかな例外は、希少材料または§dOmnicoins§fで購入したものです。可能であれば、それらは倍増する価値があります。%n%nしかし、少なくとも今のところ、あなたはそれらを倍増せずに、より一般的な鉱石を製錬することについて罪悪感を感じるべきではありません!§eOreの倍増は、中電圧マシンまたはそれ以降になるまで安全に無視できます。§r
 
 # db 10
 nomifactory.quest.db.10.title=Tier Two Micro Miner
