@@ -124,15 +124,15 @@ nomifactory.quest.db.19.desc=Alloy Smelter は§6Sulfurアイテムを一緒に�
 
 # db 20
 nomifactory.quest.db.20.title=Furnace v6.0
-nomifactory.quest.db.20.desc=§3Diamond Furnaces§f are the fastest available, taking only §a25 ticks§f to smelt an item.
+nomifactory.quest.db.20.desc=§3Diamond Furnaces§fは最速で、アイテム精錬に§a25 ticks§fのみかかります。
 
 # db 21
 nomifactory.quest.db.21.title=Steel
-nomifactory.quest.db.21.desc=§6Steel§r is a basic component in all sorts of machines and alloys. It is made in the §3Alloy Smelter§r.%n%nYou might want to save your §6Coal Dust§r for circuits and use §6Charcoal Dust§r instead. Later, you can also centrifuge either of these dusts or §6Coal Coke Dust§r into §6Carbon Dust§r, which can be used for Steel and other useful things.
+nomifactory.quest.db.21.desc=§6Steel§rは、あらゆる種類の機械および合金の基本材料です。§3Alloy Smelter§r.%n%nで作られます。§6Coal Dust§rの代わりに§6Charcoal Dust§rを使用することをお勧めします。その後、これらのDustまたは§6Coal Coke Dust§rのいずれかを、Steelやその他の有用なものに使用できる§6Carbon Dust§rに遠心分離することもできます。
 
 # db 22
 nomifactory.quest.db.22.title=Pyrolyse Oven
-nomifactory.quest.db.22.desc=The main function of this oven is to increase the fuel values of your wood and coal while also recovering some of the various potentially useful waste products.%n%nTurning §6Coal§r into §6Coal Coke§r will not only make it more useful as fuel, but will also produce §9Phenol§r, which you'll need for circuits.%n%nThe Pyrolyse Oven is also the source of several other fluids that can be distilled for useful ingredients.%n%nYou can §6sneak-right click§r the controller to enable the in-world preview.%n
+nomifactory.quest.db.22.desc=このOvenの主な機能は、WoodとCoalの燃料値を増やしながら、さまざまな潜在的に有用な廃棄物の一部を回収することです。%n%n§6Coal§rを§6Coal Coke§rに加工すると、燃料としてより便利になるだけでなく、回路に必要な§9Phenol§rも生成されます。%n%nPyrolyse Ovenは、有用な成分のために蒸留できる他のいくつかの液体の供給源でもあります。%n%nコントローラを§6sneak-right click§rすることで、インワールドプレビューを有効にすることができます。%n
 
 # db 23
 nomifactory.quest.db.23.title=Obsidian
