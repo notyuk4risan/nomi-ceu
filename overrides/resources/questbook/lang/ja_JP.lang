@@ -136,15 +136,15 @@ nomifactory.quest.db.22.desc=このOvenの主な機能は、WoodとCoalの燃料
 
 # db 23
 nomifactory.quest.db.23.title=Obsidian
-nomifactory.quest.db.23.desc=You'll need §6Obsidian§r to make §6Dark Steel§r. Most of the tools you can make cannot mine Obsidian, but you do have a few potential options for ones that will work. The options you're most likely to have access to at this point are:%n%n1) A §aDiamond Pickaxe§r or §aDiamond Mining Hammer§r.%n%n2) A §aPlatinum Mining Hammer§r (not pickaxe though).
+nomifactory.quest.db.23.desc=§6Dark Steel§rを作成するには、§6Obsidian§rが必要です。あなたが作ることができるツールのほとんどはObsidianを採掘することはできませんが、うまくいくもののためのいくつかの潜在的なオプションがあります。この時点でアクセスできる可能性が最も高いオプションは次のとおりです:%n%n1) A §aDiamond Pickaxe§r または §aDiamond Mining Hammer§r.%n%n2) A §aPlatinum Mining Hammer§r (しかし、つるはしではありません)。
 
 # db 24
 nomifactory.quest.db.24.title=Steam Dynamo
-nomifactory.quest.db.24.desc=Your first major crafting project!%n%nYou'll need a small bit of §6Silver§f for this dynamo. If you haven't found a §6Galena vein§f yet (which is where Silver is), then consider "buying" some §6Silver Ore§r using §dOmnicoins§r. You won't need a ton of silver and lead just yet, so it won't bankrupt you.%n%nKeep in mind that §eDynamos only output power when burning through fuel, and only the block attached directly to the coil will get provided with power§f.
+nomifactory.quest.db.24.desc=あなたの最初の主要なクラフトプロジェクト!%n%nこのDynamoには少量の§6Silver§fが必要です。§6Galena vein§fがまだ見つからない場合は、§dOmnicoins§rを使用して§6Silver Ore§rを「購入」することを検討してください。あなたはまだ大量の銀と鉛を必要としないので、それはあなたを破産させません。%n%n§eDynamosは燃料を燃やすときにのみ電力を出力し、コイルに直接取り付けられたブロックのみ電力§fが提供されることに注意してください。
 
 # db 25
 nomifactory.quest.db.25.title=Cake Based Dimensional Transit
-nomifactory.quest.db.25.desc=This quest is repeatable once per hour and gives you a free cake to the Void World or Overworld. You can also refill your cakes with the items indicated in their tooltips.
+nomifactory.quest.db.25.desc=このクエストは1時間に1回繰り返し可能で、Void WorldまたはOverworldに行くためのケーキを無料で提供します。ツールチップに示されているアイテムでケーキを補充することもできます。
 
 # db 26
 nomifactory.quest.db.26.title=Dark Steel
