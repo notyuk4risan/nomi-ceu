@@ -2393,47 +2393,47 @@ nomifactory.quest.db.762.desc=Now that you have §einterdimensional teleportatio
 
 # db 763
 nomifactory.quest.db.763.title=Rod of Return
-nomifactory.quest.db.763.desc=A good, but slightly gated way of teleporting back to your telepads.%n%nIt won't be possible to make this until you reach EV tier power.
+nomifactory.quest.db.763.desc=テレパッドにテレポートする良いが、わずかにゲートされた方法です。%n%nEV層の電力に達するまで、これを行うことはできません。
 
 # db 764
 nomifactory.quest.db.764.title=LV Circuits
-nomifactory.quest.db.764.desc=Circuits along this line are LV, and can all be substituted in recipes.%n%n§7Primitive Circuits§r are the worst in terms of cost and effort required to produce, but you have to start with something.%n%n§2Electronic Circuits§r are the middle layer between Primitive Circuits and Refined Circuits.%n%nAnd finally, §aRefined Circuits§r, which take the lowest effort and come in batches of four, but require polyethylene.%n
+nomifactory.quest.db.764.desc=このラインに沿った回路はLVであり、すべてレシピに置き換えることができます。%n%n§7Primitive Circuits§rは、生産に必要なコストと労力の点で最悪ですが、何かから始める必要があります。%n%n§2Electronic Circuits§rは、原始回路と精製回路の間の中間層です。%n%nそして最後に、§aRefined Circuits§rは、最低の労力を取り、4つのバッチで来ますが、ポリエチレンを必要とします。%n
 
 # db 765
 nomifactory.quest.db.765.title=なんだこれ？
-nomifactory.quest.db.765.desc=The Progression tab was added so you can keep track of the important bits of the pack.%n%nCircuits are the baseline of the entire Nomifactory progression, so keep climbing!
+nomifactory.quest.db.765.desc=プログレッションタブが追加されたので、パックの重要なビットを追跡できます。%n%nCircuitsはNomifactory進行全体のベースラインなので、登り続けてください!
 
 # db 766
 nomifactory.quest.db.766.title=MV Circuits
-nomifactory.quest.db.766.desc=Circuits along this line are MV, and can all be substituted in recipes.%n%nThe pattern stays the same: the rightmost circuit comes in larger quantities and is overall easier to produce.
+nomifactory.quest.db.766.desc=このラインに沿った回路はMVであり、すべてレシピで置き換えることができます。%n%nパターンは同じままです。右端の回路は大量に来ており、全体的に生産が簡単です。
 
 # db 767
 nomifactory.quest.db.767.title=HV Circuits
-nomifactory.quest.db.767.desc=Circuits along this line are HV, and can all be substituted in recipes.%n%nThe pattern stays the same: the rightmost circuit comes in larger quantities and is overall easier to produce.
+nomifactory.quest.db.767.desc=このラインに沿った回路はHVであり、すべてレシピで置き換えることができます。%n%nパターンは同じままです。右端の回路は大量に来ており、全体的に生産が簡単です。
 
 # db 768
 nomifactory.quest.db.768.title=EV Circuits
-nomifactory.quest.db.768.desc=Circuits along this line are EV, and can all be substituted in recipes.%n%nThe pattern stays the same: the rightmost circuit comes in larger quantities and is overall easier to produce.
+nomifactory.quest.db.768.desc=このラインに沿った回路はEVであり、すべてレシピで置き換えることができます。%n%nパターンは同じままです。右端の回路は大量に来ており、全体的に生産が簡単です。
 
 # db 769
 nomifactory.quest.db.769.title=IV Circuits
-nomifactory.quest.db.769.desc=Circuits along this line are IV, and can all be substituted in recipes.%n%nThe pattern stays the same: the rightmost circuit comes in larger quantities and is overall easier to produce.
+nomifactory.quest.db.769.desc=このラインに沿った回路はIVであり、すべてレシピで置き換えることができます。%n%nパターンは同じままです。右端の回路は大量に来ており、全体的に生産が簡単です。
 
 # db 770
 nomifactory.quest.db.770.title=LuV Circuits
-nomifactory.quest.db.770.desc=Circuits along this line are LuV, and can all be substituted in recipes.%n%nThe pattern stays the same: the rightmost circuit comes in larger quantities and is overall easier to produce.%n%nMake sure to set up the wetware board production as soon as possible! These take a very long time to make.%n%nIt's LuV, not LUV.%n
+nomifactory.quest.db.770.desc=このラインに沿った回路はLuVであり、すべてレシピに置き換えることができます。%n%nパターンは同じままです。右端の回路は大量に来て、全体的に生産が簡単です。%n%nできるだけ早くウェットウェアボードの生産を設定してください!これらは作るのに非常に長い時間がかかります。%n%nそれはLUVではなくLuVです。%n
 
 # db 771
 nomifactory.quest.db.771.title=ZPM Circuits
-nomifactory.quest.db.771.desc=Circuits along this line are ZPM, and can all be substituted in recipes.
+nomifactory.quest.db.771.desc=このラインに沿った回路はZPMであり、すべてレシピに置き換えることができます。
 
 # db 772
 nomifactory.quest.db.772.title=UV Circuits
-nomifactory.quest.db.772.desc=Circuits along this line are UV, and can both be substituted in recipes.
+nomifactory.quest.db.772.desc=このラインに沿った回路はUVであり、両方ともレシピに置き換えることができます。
 
 # db 773
 nomifactory.quest.db.773.title=Diesel or Bio-Diesel
-nomifactory.quest.db.773.desc=How did you end up here?
+nomifactory.quest.db.773.desc=どうやってここにたどり着いたのですか?
 
 # db 774
 nomifactory.quest.db.774.title=LV Lathe
@@ -2441,11 +2441,11 @@ nomifactory.quest.db.774.desc=§3Lathe§r は作成コストを下げるため�
 
 # db 775
 nomifactory.quest.db.775.title=Multiblock Machine Previews
-nomifactory.quest.db.775.desc=§bMultiblock Tweaker§r adds an §einteractive in-world preview§r for all §bGregTech§r multiblocks! §6Shift-right-click§r a placed controller to activate a hologram depicting the default layout of the structure to help you with building. As you place blocks, the structure will be validated and the §efirst incorrect block§r it detects will be highlighted in red.%n%n§6Sneak-right-click§r to cycle from the full view through each layer. When on the final layer of the preview, this will remove the preview.%n%n§6Sneak-left-click§r to go back to the previous layer, or close the preview from the full view.%n%nIn the §eJEI previews§r for multiblocks, §6left-click§r and drag the mouse to rotate the preview horizontally. §6Shift-left-click§r to rotate it vertically.%n%nAdditionally, you can §6right-click§r and drag the mouse to pan the preview or §6shift-right-click§r and drag to zoom in or out.%n%nSome blocks in the multiblock preview have additional tooltips to provide more information on how the multiblock can form.
+nomifactory.quest.db.775.desc=§bMultiblock Tweaker§rは、すべての§bGregTech§rマルチブロックに§einteractive in-world preview§rを追加します!§6Shift-right-click§r配置されたコントローラーを使用して、構築に役立つ構造のデフォルトレイアウトを描いたホログラムをアクティブにします。ブロックを配置すると、構造が検証され、検出される§efirstの誤ったblock§rは赤で強調表示されます。%n%n§6Sneak-right-click§rは、各レイヤー全体から循環します。プレビューの最終レイヤーでプレビューが削除されます。%nn§6Sneak-left-click§rで前のレイヤーに戻るか、フルビューからプレビューを閉じます。%n%nマルチブロックの§eJEI previews§rでは、§6left-click§rでマウスをドラッグしてプレビューを水平に回転させます。§6Shift-left-click§rで垂直に回転させます。%n%nさらに、§6right-click§rとマウスをドラッグしてプレビューをパンするか、§6shift-right-click§rをドラッグしてズームインまたはズームアウトします。%n%nマルチブロックプレビューの一部のブロックには、マルチブロックの形成方法に関する詳細情報を提供する追加のツールチップがあります。
 
 # db 776
 nomifactory.quest.db.776.title=Awakened Core
-nomifactory.quest.db.776.desc=§6Awakened Cores§6§r are the third tier of §bDraconic Evolution§r core, and are common components of endgame recipes.%n%nThese cores are made with §6Awakened Draconium§r and also cost §e3 Billion RF§r to craft.
+nomifactory.quest.db.776.desc=§6Awakened Cores§6§rは、§bDraconic Evolution§rコアの第3層であり、エンドゲームレシピの一般的なコンポーネントです。%n%nこれらのコアは§6Awakened Draconium§rで作られ、クラフトには30億RF§rの費用がかかります。
 
 # db 777
 nomifactory.quest.db.777.title=Empowered Diamantine Gear
@@ -2453,23 +2453,23 @@ nomifactory.quest.db.777.desc=§6Empowered Diamantine Crystal§6§rから成形�
 
 # db 778
 nomifactory.quest.db.778.title=Power Storage on a Massive Level
-nomifactory.quest.db.778.desc=Now that you have §6Awakened Cores§r, you can make the §eEnergy Storage Core§r from §bDraconic Evolution§r. It's a great way to store all the energy required to craft power-hungry late game items.%n%nThe §eEnergy Storage Core§r is a multiblock structure that can be upgraded to store increasingly immense amounts of RF energy. See the §bDraconic Evolution§r manual for more information on the material requirements for each tier.%n%n§6Energy Pylons§r are required to input and output energy from the core. Each pylon allows movement in a single direction, so you need at least two.%n%nOnce you have the materials together for your desired tier, § the structure can build itself: simply access the GUI of the §6Energy Core§r, set the tier, and click Assemble. Items will be automatically used from your inventory. Once the structure is built, you can access the core's GUI again through §6Energy Core Stabilizers§r to activate it.%n%nIt is recommended to postpone Tier 8 until after you reach the §dCreative Portable Tank§r, as it requires large amounts of §6Awakened Draconium§r.%n%n
+nomifactory.quest.db.778.desc=§6Awakened Cores§rができたので、§bDraconic Evolution§rから§eEnergy Storage Core§rを作成できます。これは、電力を消費する後期ゲームアイテムを作成するために必要なすべてのエネルギーを格納するのに最適な方法です。%n%n§eEnergy Storage Core§rは、ますます膨大な量のRFエネルギーを格納するためにアップグレードできるマルチブロック構造です。各層の材料要件の詳細については、§bDraconic Evolution§rマニュアルを参照してください。%n%n§6エネルギーパイロン§rは、コアからのエネルギーを入出力するために必要です。各パイロンは1方向に移動できるため、少なくとも2つ必要です。%n%n必要な階層の材料をまとめたら、§構造はそれ自体を構築できます。§6Energy Core§rのGUIにアクセスし、階層を設定し、[集合]をクリックするだけです。商品は在庫から自動的に使用されます。構造が構築されると、§6Energy Core Stabilizers§rを介してコアのGUIに再度アクセスしてアクティブにすることができます。%n%n§6Awakened Draconium§r.%n%nを大量にする必要があるため、§dCreative Portable Tank§rに到達するまでTier 8を延期することをお勧めします。
 
 # db 779
 nomifactory.quest.db.779.title=Infinite Cobblestone
-nomifactory.quest.db.779.desc=Now that you have acquired §6Steel§6§r, your path to infinite cobblestone awaits! The §6Cobblestone Generator§r continuously outputs cobblestone into adjacent inventories, and can be upgraded to produce it even faster.%n%nCobblestone can be processed into many useful materials:%n%n§6Gravel§r is useful for making conduits and §9Concrete§r.%n%n§6Sand§r is useful for §6Glass§r, which can be turned into §6Nether Quartz§r.%n%nFinally, §6Dust§r can be turned into §6Clay§r which is both a reliable source of §6Aluminium§r and very important for automating §bDeep Mob Learning§r.%n%nSet up a §ecobbleworks§r soon, so you can stockpile all these useful materials.%n
+nomifactory.quest.db.779.desc=§6Steel§6§rを取得したので、無限の石畳への道が待っています!§6Cobblestone Generator§rは、隣接する在庫にコストーンを継続的に出力し、さらに迅速に生成するようにアップグレードできます。%n%nCobblestoneは多くの有用な材料に処理できます。%n%n%n§6Gravel§rは導管を作るのに有用であり、§9Concrete§r.%n%n§6Sand§rは§6Glass§rに有用であり、§6Nether Quartz§r.%n%n%n最後に、§6Dust§rは§6Clay§rに変えることができます。これは§6Aluminium§rの信頼できる供給源であり、§bDeep Mob Learning§rを自動化するために非常に重要です。%n%nすぐに§ecobbleworks§rをすぐにセットアップするので、これらの有用な材料をすべて備蓄できます。%n
 
 # db 780
 nomifactory.quest.db.780.title=To the Nether
-nomifactory.quest.db.780.desc=Once you have obtained your§e §rfi§rrst §rpiece of §6Hellish Matter§6§r, travel to the §r§eNether§r becomes available.%n%nIt is not required to travel to the nether for any reason in this pack, although you may find it an easy source of §6Glowstone§r, §6Soul Sand§r, and your initial pieces of §6Sulfur§r before you make a §eBlaze Model§r from §c§bDeep Mob Learning§r.
+nomifactory.quest.db.780.desc=§6Hellish Matter§6§rの§e§rfi§rst§rピースを取得したら、§r§eNether§rに移動できるようになります。%n%nこのパックの何らかの理由でネザーに旅行する必要はありませんが、§c§bDeep Mob Learning§rから§eBlaze Model§rを作成する前に、§6Glowstone§6
 
 # db 781
 nomifactory.quest.db.781.title=Numismatic Power
-nomifactory.quest.db.781.desc=The §6Numismatic Dynamo§r is the main source of power through the Mid Game of the pack. Paired with a §6§r§aLapidary Calibration Augment§r and a self-sustaining §e§r§bDeep Mob Learning§r setup, this dynamo can burn through §6Diamonds§r to produce large amounts of §eRF power§r.%n%nJust like other §bThermal Expansion§r dynamos, the §6Numismatic Dynamo§r can be given tier upgrades to produce more power and gain access to more §e§r§aAugment Slots§r.
+nomifactory.quest.db.781.desc=§6Numismatic Dynamo§rは、パックのミッドゲームを通じて主要な電力源です。§6§r§aLapidary Calibration Augment§rと自己維持の§e§r§bDeep Mob Learning§rセットアップと組み合わせることで、このダイナモは§6Diamonds§rを燃やして大量の§eRF power§rを生成することができます。%n%n他の§bThermal Expansion§rダイナモと同様に
 
 # db 782
 nomifactory.quest.db.782.title="Deuterium" or "I Don't Like Space"
-nomifactory.quest.db.782.desc=Hidden gathering quest for SMP
+nomifactory.quest.db.782.desc=SMPの隠された収集クエスト
 
 # db 783
 nomifactory.quest.db.783.title="Arsenic" and "Quantum Eyes"
@@ -2477,7 +2477,7 @@ nomifactory.quest.db.783.desc=⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀�
 
 # db 784
 nomifactory.quest.db.784.title=ME Cables
-nomifactory.quest.db.784.desc=これは基本的に§3Applied Energistics§rで使われるケーブルです。 ネットワークに繋ぐだけで運送できます。 Due to the fact that channels are disabled, these cables will be your main method of transporting network connectivity, rather than the dense cables.%n%nThese cables do not share blockspace with conduits or cables for other mods, so they can be somewhat unweildy to build with, but they do accept §3Applied Energistics§r§6§r §6Facades§r, so they can be hidden very easily.%n%nLater you can make a variant of the cable that can share blockspace with §3Ender IO§r conduits.
+nomifactory.quest.db.784.desc=これは基本的に§3Applied Energistics§rで使われるケーブルです。 ネットワークに繋ぐだけで運送できます。チャネルが無効になっているため、これらのケーブルは密集したケーブルではなく、ネットワーク接続を転送する主な方法になります。%n%nこれらのケーブルは、他のMODの導管やケーブルとブロックスペースを共有しないため、構築するのはやや不安定になる可能性がありますが、§3Applied Energistics§r§6§6Facades§rを受け入れるため、非常に簡単に非表示にすることができます。%n%n後で、§3Ender IO§r conduitsとブロックスペースを共有できるケーブルのバリアントを作成できます。
 
 # db 785
 nomifactory.quest.db.785.title=New Cable Coverings
