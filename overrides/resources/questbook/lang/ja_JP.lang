@@ -100,27 +100,27 @@ nomifactory.quest.db.13.desc=必要なときにのみ各アイテムを作ろう
 
 # db 14
 nomifactory.quest.db.14.title=Furnace v2.0
-nomifactory.quest.db.14.desc=§3Iron Furnaces§f can smelt an item in §a150 ticks§f, which is somewhat faster than a vanilla §6Furnace§f, which takes §a200 ticks§f. The fuel efficiency remains the same for all furnaces.
+nomifactory.quest.db.14.desc=§3Iron Furnaces§fは、§a200 ticks§fを取るバニラ§6Furnace§fよりもやや速い§a150 ticks§fのアイテムを精錬することができます。燃焼効率はすべての炉で同じままです。
 
 # db 15
 nomifactory.quest.db.15.title=Furnace v3.0
-nomifactory.quest.db.15.desc=§3Copper Furnaces§f are another step up in speed, taking §a100 ticks§f to smelt an item.
+nomifactory.quest.db.15.desc=§3Copper Furnaces§fは、アイテムを精錬するために§a100 ticks§fかかりますが、スピードのもう一つのステップです。
 
 # db 16
 nomifactory.quest.db.16.title=Furnace v4.0
-nomifactory.quest.db.16.desc=§3Silver Furnaces§f are another step up in speed, taking a mere §a60 ticks§f to smelt an item.
+nomifactory.quest.db.16.desc=§3Silver Furnaces§fは、アイテム精錬するために§a60 ticks§fかかりますが、スピードのもう一つのステップアップです。
 
 # db 17
 nomifactory.quest.db.17.title=Furnace v5.0
-nomifactory.quest.db.17.desc=§3Gold Furnaces§f are yet another step up in speed, taking only §a40 ticks§f to smelt an item.
+nomifactory.quest.db.17.desc=§3Gold Furnaces§fは、アイテムを精錬するために§a40 ticks§fしかかからない、スピードのさらに別のステップアップです。
 
 # db 18
 nomifactory.quest.db.18.title=Furnace v7.0
-nomifactory.quest.db.18.desc=While §3Obsidian Furnaces§f are the same speed as §3Diamond Furnaces§f, they have twice the throughput since they can §esmelt two items at once§f.%n%nYou may find that Diamond Furnaces suit your needs better than Obsidian, but they'll both be crafting ingredients in various machines soon enough, so crafting one is not a waste, even if you don't use it.
+nomifactory.quest.db.18.desc=§3Obsidian Furnaces§fは§3Diamond Furnaces§fと同じ速度ですが、一度に2つのアイテムを§e精錬できるため、2倍のスループットがあります§f.%n%nDiamond FurnacesはObsidianよりもニーズに適していることがわかりますが、両方ともすぐにさまざまな機械で材料に使用するので、たとえ使用しなくても無駄ではありません。
 
 # db 19
 nomifactory.quest.db.19.title=LV Alloy Smelter
-nomifactory.quest.db.19.desc=Alloy Smelters are used to create alloys by melting and reforming items together.%n%nNow you won't need to grind up metals into dusts and mix them for alloy dusts! Plus, many of the more complex alloys you couldn't make that way are now possible.
+nomifactory.quest.db.19.desc=Alloy Smelter は§6Sulfurアイテムを一緒に融かして再形成することによって合金を作成する為に使用されます。%n%n 現在は金属をDustに粉砕して合金のDustにし、それらを混ぜる必要はありません！さらに、あなたには手作りできなかったより複雑な合金の多くも作成可能になりました。
 
 # db 20
 nomifactory.quest.db.20.title=Furnace v6.0
