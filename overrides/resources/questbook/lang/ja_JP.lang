@@ -2197,31 +2197,31 @@ nomifactory.quest.db.674.desc=§6Uranium 233§r is obtained exclusively from the
 
 # db 675
 nomifactory.quest.db.675.title=Plutonium Fission
-nomifactory.quest.db.675.desc=Low-Enriched Plutonium 239, or §6LEP-239§r, is made from the usual 8:1 ratio of two isotopes of §6Plutonium§r acquired from earlier depleted fuels.%n%n§6Depleted LEP-239§r will give you some §6Curium§r for further enrichment.%n%nHigh-Enriched Plutonium fuels will give better results, but §cgenerate a lot more heat§r. Make sure your reactor cooling is up to the task.
+nomifactory.quest.db.675.desc=低濃縮プルトニウム239、または§6LEP-239§rは、以前の枯渇燃料から取得した§6Plutonium§rの2つの同位体の通常の8:1比から作られています。%n%n§6Depleted LEP-239§rは、さらなる濃縮のためにいくつかの§6Curium§rを与えます。%n%n高原子炉の冷却がタスクに適していることを確認してください。
 
 # db 676
 nomifactory.quest.db.676.title=Curium Fission
-nomifactory.quest.db.676.desc=Low-Enriched Curium 243, or §6LECm-243§r, is made from §6Curium-243§r and §6Curium-246§r.%n%n§6Depleted LECm-243 Fuel§r gives mostly Curium-246 back, but also small quantities of §6Berkelium§r and §6Californium§r isotopes.%n%n§6HECm-247§r is a better alternative for strictly Californium, if your reactor can withstand the heat.
+nomifactory.quest.db.676.desc=低濃縮キュリウム243、または§6LECm-243§rは、§6Curium-243§rと§6Curium-246§rから作られています。%n%n§6§6Depleted LECm-243 Fuel§rは、主にキュリウム-246バックを与えますが、少量の§6Berkelium§rおよび§
 
 # db 677
 nomifactory.quest.db.677.title=Americium Fission
-nomifactory.quest.db.677.desc=§6Americium 242§r and §6Americium 243§r are used to make §6LEA-242 Fuel§r.%n%nThere's also §6Americium 241§r, but this is only useful for making RTGs (which produce small amounts of RF continuously) or decaying down into §6Neptunium§r.%n%n§6Depleted LEA 242 Fuels§r§r will return large amounts of §6Curium 246§r and small amounts of other isotopes.
+nomifactory.quest.db.677.desc=§6Americium 242§rおよび§6Americium 243§rは、§6LEA-242 Fuel§rを作成するために使用されます。%n%n§6Americium 241§rもありますが、これはRTG（少量のRFを継続的に生成する）を作成するか、§6Neptunium§r.%n%n§6Deplet
 
 # db 678
 nomifactory.quest.db.678.title=Berkelium Fission
-nomifactory.quest.db.678.desc=§6Depleted LEB-248 Fuel§r results in several different isotopes of §6§6Californium§r.
+nomifactory.quest.db.678.desc=§6Depleted LEB-248 Fuel§rは、§6§6Californium§rのいくつかの異なる同位体をもたらします。
 
 # db 679
 nomifactory.quest.db.679.title=Californium Fission
-nomifactory.quest.db.679.desc=§6Californium§r is the final fissile material in the NuclearCraft processing chain.%n%n§6Depleted LECf-249 Fuel§r results in... different isotopes of Californium.%n%nUnless you want §6Californium RTGs§r or are experimenting with further fission routes, this step is probably unnecessary for general materials processing.
+nomifactory.quest.db.679.desc=§6Californium§rは、NuclearCraft処理チェーンの最後の核分裂性材料です。%n%n§6Depleted LECf-249 Fuel§rの結果...Californiumの異なる同位体。%n%n§6Californium RTGs§rを望まないか、さらなる核分裂経路を実験しない限り、このステップはおそらく一般的な材料処理には不要です。
 
 # db 680
 nomifactory.quest.db.680.title=Further Adventures In Fission
-nomifactory.quest.db.680.desc=Now that you have all the basic building blocks of nuclear fission, you'll need to start creating breeding chains to mass produced stabilized versions of each element, for the synthesis of §dOmnium§r.%n%nExperiment around with larger breeder reactors that can handle highly enriched fuels.%n%nYou'll probably want to build multiple reactors to make all the fissile elements in any reasonable amount of time.
+nomifactory.quest.db.680.desc=核分裂の基本的な構成要素がすべて揃ったので、§dOmnium§r.%n%n高度に濃縮燃料を処理できるより大きなブリーダー原子炉で実験するために、各要素の大量生産された安定化バージョンに繁殖チェーンの作成を開始する必要があります。%n%n合理的な時間内にすべての核分裂要素を作るために複数の原子炉を建設したいと思うでしょう。
 
 # db 681
 nomifactory.quest.db.681.title=爆縮
-nomifactory.quest.db.681.desc=The §aImplosion Compressor§f is like an autoclave that uses explosions instead of water. It is the only way to turn most gem dusts into gemstones.%n%nIt will also be vital for processing §5Motes of Omnium§f.%n%nIn addition to the controller and casings, you will need one §eLV or better§r §6Item Input Bus§r, §6Item Output Bus§r, and §6Energy Input Hatch§r.
+nomifactory.quest.db.681.desc=§aImplosion Compressor§fは、水の代わりに爆発を使用するオートクレーブのようなものです。ほとんどの宝石のほこりを宝石に変える唯一の方法です。%n%n§5Motes of Omnium§f.%n%nを処理するためにも不可欠です。コントローラとケーシングに加えて、§eLVまたはbetter§r§6Item Input Bus§r、§6Item Output Bus§r、および§6Energy Input Hatch§rが必要です。
 
 # db 682
 nomifactory.quest.db.682.title=Simulating Mobs
