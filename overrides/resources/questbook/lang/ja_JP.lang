@@ -1828,51 +1828,51 @@ nomifactory.quest.db.580.title=Blast Furnaces Galore
 nomifactory.quest.db.580.desc=As you continue to progress, crafting times for more advanced §3Electric Blast Furnace§r recipes will continue to increase. More advanced coils do not give speed bonuses, they just increase the operating temperature so you can smelt more advanced materials.%n%nTo compensate, you'll need to get your infrastructure for smelting, as well as for power generation, up to snuff.%n%nYou don't need to get all eight of these completed and running just yet, but plan to at some point in the future. Instead of upgrading existing EBFs, have them passively automating a stock of materials and build new EBFs with higher specifications for new materials.%n%n
 
 # db 582
-nomifactory.quest.db.582.title=Fluxed Electrum Ingots
+nomifactory.quest.db.582.title=Fluxed Electrum Ingots（フラックス化エレクトラムインゴット）
 nomifactory.quest.db.582.desc= 
 
 # db 583
-nomifactory.quest.db.583.title=Signalum Ingots
+nomifactory.quest.db.583.title=Signalum Ingots（シグナラムインゴット）
 nomifactory.quest.db.583.desc= 
 
 # db 584
-nomifactory.quest.db.584.title=Enderium Ingots
+nomifactory.quest.db.584.title=Enderium Ingots（エンダリウムインゴット）
 nomifactory.quest.db.584.desc= 
 
 # db 585
-nomifactory.quest.db.585.title=Pulsating Iron Ingots
+nomifactory.quest.db.585.title=Pulsating Iron Ingots（脈動鉄インゴット）
 nomifactory.quest.db.585.desc= 
 
 # db 586
-nomifactory.quest.db.586.title=High Speed Steel Type E Ingot
+nomifactory.quest.db.586.title=High Speed Steel Type E Ingot（HSS-Eインゴット）
 nomifactory.quest.db.586.desc= 
 
 # db 587
-nomifactory.quest.db.587.title=High Speed Steel Type G Ingots
+nomifactory.quest.db.587.title=High Speed Steel Type G Ingots（HSS-Gインゴット）
 nomifactory.quest.db.587.desc= 
 
 # db 588
-nomifactory.quest.db.588.title=High Speed Steel Type S Ingots
+nomifactory.quest.db.588.title=High Speed Steel Type S Ingots（HSS-Sインゴット）
 nomifactory.quest.db.588.desc= 
 
 # db 589
-nomifactory.quest.db.589.title=Crystal Matrix Ingots
+nomifactory.quest.db.589.title=Crystal Matrix Ingots（クリスタルマトリックスインゴット）
 nomifactory.quest.db.589.desc= 
 
 # db 591
-nomifactory.quest.db.591.title=Vanadium Steel Ingots
+nomifactory.quest.db.591.title=Vanadium Steel Ingots（バナジウムインゴット）
 nomifactory.quest.db.591.desc= 
 
 # db 592
-nomifactory.quest.db.592.title=Electrical Steel Ingots
+nomifactory.quest.db.592.title=Electrical Steel Ingots（電炉鋼インゴット）
 nomifactory.quest.db.592.desc= 
 
 # db 593
-nomifactory.quest.db.593.title=End Steel Ingots
+nomifactory.quest.db.593.title=End Steel Ingots（エンドスチールインゴット）
 nomifactory.quest.db.593.desc= 
 
 # db 594
-nomifactory.quest.db.594.title=Microversium Ingots
+nomifactory.quest.db.594.title=Microversium Ingots（マイクロバーシニウムインゴット）
 nomifactory.quest.db.594.desc= 
 
 # db 595
@@ -1880,72 +1880,71 @@ nomifactory.quest.db.595.title=Mana Infused Ingots
 nomifactory.quest.db.595.desc= 
 
 # db 596
-nomifactory.quest.db.596.title=Dark Steel Ingots
+nomifactory.quest.db.596.title=Dark Steel Ingots（ダークスチールインゴット）
 nomifactory.quest.db.596.desc= 
 
 # db 597
-nomifactory.quest.db.597.title=Vibrant Alloy Ingots
+nomifactory.quest.db.597.title=Vibrant Alloy Ingots（ヴァイブラントインゴット）
 nomifactory.quest.db.597.desc= 
 
 # db 598
-nomifactory.quest.db.598.title=Energetic Alloy Ingots
+nomifactory.quest.db.598.title=Energetic Alloy Ingots（エナジェティック合金インゴット）
 nomifactory.quest.db.598.desc= 
 
 # db 599
-nomifactory.quest.db.599.title=Soularium Ingots
+nomifactory.quest.db.599.title=Soularium Ingots（ソウラリウムインゴット）
 nomifactory.quest.db.599.desc= 
 
 # db 600
-nomifactory.quest.db.600.title=Manyullyn Ingots
+nomifactory.quest.db.600.title=Manyullyn Ingots（マニュリンインゴット）
 nomifactory.quest.db.600.desc= 
 
 # db 601
-nomifactory.quest.db.601.title=Magnalium Ingots
+nomifactory.quest.db.601.title=Magnalium Ingots（マグナリウムインゴット）
 nomifactory.quest.db.601.desc= 
 
 # db 602
-nomifactory.quest.db.602.title=Kanthal Ingots
+nomifactory.quest.db.602.title=Kanthal Ingots（カンタルインゴット）
 nomifactory.quest.db.602.desc= 
 
 # db 603
-nomifactory.quest.db.603.title=Nichrome Ingots
+nomifactory.quest.db.603.title=Nichrome Ingots（ニクロムインゴット）
 nomifactory.quest.db.603.desc= 
 
 # db 604
 nomifactory.quest.db.604.title=Heart Of A Universe
-nomifactory.quest.db.604.desc=No hypothetical aliens were harmed in the harvesting of this item.%n%nProbably.%n%nMelting the heart of a universe provides a rather useful liquid: §dMolten Creative Portable Tank§r.
+nomifactory.quest.db.604.desc=このアイテムの収穫で仮説的なエイリアンは害を受けませんでした。%n%nおそらく。%n%n宇宙の心を溶かすことは、かなり有用な液体を提供します:§dMolten Creative Portable Tank§r。
 
 # db 605
 nomifactory.quest.db.605.title=Tier Ten Micro Miner
-nomifactory.quest.db.605.desc=You are become Death, destroyer of Universes.%n%nMight probably be obvious, but this miner gathers §6Heart of a Universe§r.
+nomifactory.quest.db.605.desc=あなたは死、宇宙の駆逐艦になります。%n%%nおそらく明らかかもしれませんが、この鉱山労働者は§6宇宙の心を集めます。
 
 # db 606
 nomifactory.quest.db.606.title=Neutronium Heavy Plating
-nomifactory.quest.db.606.desc=Kind of redundant, really.%n%nThis plating is used exclusively for the Tier Ten Micro Miner. You need some serious protection from forces when harvesting a whole microverse.
+nomifactory.quest.db.606.desc=冗長な種類、本当に。%n%nこのメッキは、ティアテンマイクロマイナー専用に使用されます。マイクロバース全体を収穫するときは、力からの深刻な保護が必要です。
 
 # db 607
 nomifactory.quest.db.607.title=Neutronium Ingot
-nomifactory.quest.db.607.desc=§6Neutronium§r is a hyper-dense material normally found in the hearts of neutron stars: the collapsed cores of stars between ten and thirty times the size of the sun.%n%nFun fact: a single neutronium block is approximately 2884 million metric tons and somewhere around 600000K, yet you're somehow capable of holding one with your bare hands. Don't think about it too much.%n%nNeutronium is made from fusing molten §9Naquadria§r, a super-enriched form of §6Naquadah§r, with molten §9Americium§r. These bad boys require a LOT of time to fuse.%n%nParallelizing fluid crafting is tricky business (and Mark 3 reactors are expensive), but several could be used to speed up the processing. Try to minimize your reactor's downtime and be very careful about supplying your reactors with stable power.%n%nAfter getting §6Chaotic Fusion Injectors§r, you might consider using Tier Nine Micro Miners to supplement the fusion, as it is net-positive for Neutronium. These miners are expensive though, so it's up to you.%n
-
+§6Neutronium§rは、通常、中性子星の心臓部に見られる超高密度材料です:太陽の10倍から30倍の大きさの星の崩壊したコア。%n%n面白い事実:単一のニュートロニウムブロックは約28億8400万メートルトンと約600000Kですが、どういうわけか素手で1つを保持することができます。あまり考えないでください。%n%nNeutroniumは、§6Naquadah§rの超濃縮形態である溶融§9Naquadria§rと溶融§9Americium§rを融合して作られています。これらの悪い男の子は、融合するのに多くの時間を必要とします。%n%n並列流体製作はトリッキーなビジネスです(そしてマーク3原子炉は高価です)が、処理を高速化するためにいくつかを使用することができます。原子炉のダウンタイムを最小限に抑え、原子炉に安定した電力を供給することに非常に注意してください。%n%n§6Chaotic Fusion Injectors§rを入手した後、Neutroniumの正味陽性であるため、Tier Nine Micro Minersを使用して融合を補完することを検討するかもしれません。しかし、これらの鉱山労働者は高価なので、あなた次第です。%n
 # db 608
 nomifactory.quest.db.608.title=Superconductor Wire
-nomifactory.quest.db.608.desc=Coating §6Draconium Wire§r with §9Molten Nether Star§r and freezing it solid results in a superconductive material capable of transmitting enormous amounts of energy.%n%nThese wires losslessly transmit "MAX" tier, which is effectively infinite transfer rate. This means they will work for any tier of power. 1x wires handle 4 amps, meaning 4x wires can handle 16 amps.%n%nThese can also be made into RF conduits that can transmit a whopping 134 Million RF/t.
+nomifactory.quest.db.608.desc=§6Draconium Wire§rを§9Molten Nether Star§rでコーティングし、それを固体に凍結すると、膨大な量のエネルギーを伝達できる超伝導材料になります。%n%%nこれらのワイヤは、事実上無限の転送速度である「MAX」層を無損失で送信します。これは、彼らが電力の任意の層で動作することを意味します。 1xワイヤは4アンペアを処理します。つまり、4xワイヤは16アンペアを処理できます。%n%nこれらは、なんと1億3400万RF / tを送信できるRF導管にも作ることができます。
 
 # db 609
 nomifactory.quest.db.609.title=Reinforced Upgrade Kit
-nomifactory.quest.db.609.desc=Provides more augment slots to machines and dynamos.%n%nDynamos operate at §a250%% of base power and fuel burn rate§r.%n%nTanks hold §a450 buckets§r.%n%nMachines operate at §a250%% of base speed.
+nomifactory.quest.db.609.desc=機械とダイナモにより多くの拡張スロットを提供します。%n%nDynamosは、ベースパワーと燃料燃焼率§a250%%で動作します§r.%n%nタンクは§a450バケットを保持します§r.%n%nマシンはベース速度の§250%%で動作します。
 
 # db 610
 nomifactory.quest.db.610.title=Ferroboron
-nomifactory.quest.db.610.desc=An alloy of §6Steel§r and §6Boron§r. Pretty simple.
+nomifactory.quest.db.610.desc=§6Steel§rと§6Boron§rの合金。かなりシンプルです。
 
 # db 611
 nomifactory.quest.db.611.title=Tough Alloy
-nomifactory.quest.db.611.desc=Alloying some §6Lithium§r into your §6Ferroboron§r results in §6Tough Alloy§r, a common component in §bNuclearCraft§r blocks.
+nomifactory.quest.db.611.desc=§6Lithium§rを§6Ferroboron§rに合金化すると、§bNuclearCraft§rブロックの共通成分である§6Tough Alloy§rになります。
 
 # db 612
 nomifactory.quest.db.612.title=ZPM Compressor
-nomifactory.quest.db.612.desc=The ZPM tier §3Compressor§r is needed for the most advanced heavy plating types: §6Draconium§r and §6Crystal Matrix§r.
+nomifactory.quest.db.612.desc=ZPM層§3Compressor§rは、最も先進的な重メッキタイプに必要です:§6Draconium§rと§6Crystal Matrix§r。
 
 # db 613
 nomifactory.quest.db.613.title=Element 001: Hydrogen（水素）
@@ -2160,7 +2159,7 @@ nomifactory.quest.db.665.title=Element 096: Curium（キュリウム）
 nomifactory.quest.db.665.desc= 
 
 # db 666
-nomifactory.quest.db.666.title=Element 097: Berkelium（）
+nomifactory.quest.db.666.title=Element 097: Berkelium（バークリウム）
 nomifactory.quest.db.666.desc= 
 
 # db 667
@@ -2173,23 +2172,23 @@ nomifactory.quest.db.668.desc=
 
 # db 669
 nomifactory.quest.db.669.title=Uranium Fission
-nomifactory.quest.db.669.desc=When you have enough materials, you can craft Uranium isotope clumps into Low-Enriched Uranium 235 Fuel (or §6LEU-235§r, for short). This fuel uses an 8:1 ratio of U238 to U235.%n%nThis fuel is processed in your §3Fission Reactor§r by placing it in the controller. When a redstone signal is applied it will burn the fuel, generating some power from the reactor and after a while you'll get a §6Depleted LEU-235 Fuel§r§r.%n%nThe depleted fuel is separated in a regular §3Centrifuge§r, resulting in many tiny clumps of fissile materials: Uranium 238, §6Neptunium 237§r, §6§6Plutonium 239§r, and §6Plutonium 241§r.
+nomifactory.quest.db.669.desc=十分な材料があれば、ウラン同位体塊を低濃縮ウラン235燃料(略して§6LEU-235§r)に作ることができます。この燃料は、U238とU235.%n%nの8:1の比率を使用します。この燃料は、コントローラに配置することにより、§3Fission Reactor§rで処理されます。レッドストーン信号が適用されると、燃料を燃やし、原子炉からいくらかの電力を生成し、しばらくすると§6Depleted LEU-235 Fuel§r§r.%n%%n枯渇した燃料は通常の§3Centrifuge§rで分離され、核分裂材料の多くの小さな塊が発生します:ウラン238、§6Neptun
 
 # db 670
 nomifactory.quest.db.670.title=End Game Tab
-nomifactory.quest.db.670.desc=Take a peek at The §eEnd Game quest book tab§f. This might seem a bit premature to suggest, but it has a reason.%n%nThese are quests for a full stack of many of the materials in the game. Those are the materials you'll need to synthesize §5Omnium§r, the basic end game resource. It's the pack's way of letting you know what materials you should be prepared to mass produce as you approach the end.%n%nOf course, it's not necessary or even advisable to try to finish up all of these quests the moment they become available. Some will be incredibly easy (like §6Iron§f and §6Copper§f), others will be brutally grindy at early tech levels. The rewards are all the same: §d25 Omnicoins each§f, so use your best judgement on which ones to complete and which to ignore for later.
+nomifactory.quest.db.670.desc=§eEndゲームクエストブックのタブ§fを覗いてみましょう。これは提案するのが少し時期尚早に思えるかもしれませんが、それには理由があります。%n%%nこれらは、ゲーム内の多くの資料の完全なスタックのためのクエストです。これらは、基本的なエンドゲームリソースである§5Omnium§rを合成するために必要な資料です。それはあなたが終わりに近づくにつれて大量生産するために準備されるべき材料を知らせるパックの方法です。%n%nもちろん、これらのクエストが利用可能になった瞬間にこれらすべてを終了しようとする必要でもお勧めできません。いくつかは信じられないほど簡単(§6Iron§fや§6Copper§fなど)、他の人々は初期の技術レベルで残酷に粉砕されます。報酬はすべて同じです:§d25オムニコイン各§fなので、どのものを完了し、後で無視するかについて最善の判断を使用してください。
 
 # db 671
 nomifactory.quest.db.671.title=Thorium Fission
-nomifactory.quest.db.671.desc=Thorium is another basic fissile material that can be used to get into the fissile chain. Thorium comes from §6Pitchblende Ore§r, §6Thorium Ore§r, and even §6Granite§r (with a few processing steps).%n%nThorium-Bred Uranium, or §6TBU§r for short, is made from nine clumps of §6Thorium 232§r enriched in a §3Thermal Centrifuge§r.%n%nThe depleted fuel provides tiny clumps of §6Uranium 233§r, §6Uranium 235§r, §6§6Neptunium 236§r, and §6Neptunium 237§r.
+nomifactory.quest.db.671.desc=トリウムは、核分裂連鎖に入るために使用できるもう1つの基本的な核分裂性物質です。トリウムは、§6Pitchblende Ore§r、§6Thorium Ore§r、さらには§6Granite§r(いくつかの処理手順で)から来ています。%n%nThorium-Bred Uranium、または略して§6TBU§6TBU§rは、§3Therで濃縮された§6Thorium 232§rの9つの塊から作られています。%n%n枯渇した燃料は、§6ウラン233§6ウラン233§r、§6Uranium 235§r、§6Neptunium 236§r、および§6Neptunium 237§rの小さな塊を提供します。
 
 # db 672
 nomifactory.quest.db.672.title=Nuclear Fuel Infrastructure
-nomifactory.quest.db.672.desc=Climbing the ladder of fissile materials will require some specific raw materials and machinery.%n%n§6Uranium 238§r is an important fissile material, and can be obtained from ores like §6Uranium Ore§r and §6Pitchblende Ore§r. Uranium 238 ingots or dusts need to be processed in a §3Thermal Centrifuge§r into clumps required for Enriched Fuels. §6Uranium 235§r dust is a byproduct of processing Uranium 238 Ore or §6Uraninite Ore§r, and must also be turned into clumps with a Thermal Centrifuge.%n%nThermal Centrifuges are very slow machines so you should parallelize this processing as much as possible, using the highest tier ones you can afford for overclocking.%n%n
+nomifactory.quest.db.672.desc=核分裂性材料のはしごを登るには、いくつかの特定の原材料と機械が必要です。%n%n§6ウラン238§rは重要な核分裂性材料であり、§6Uranium Ore§rや§6Pitchblende Ore§rなどの鉱石から得ることができます。ウラン238のインゴットまたはほこりは、§3Thermal Centrifuge§rで濃縮燃料に必要な塊に処理する必要があります。§6ウラン235§rダストは、ウラン238鉱石または§6ウラニナイトオレ§rを処理する副産物であり、また、熱遠心分離機で塊にする必要があります。%n%n熱遠心分離機は非常に遅い機械であるため、オーバークロックに余裕のある最高層のものを使用して、可能な限りこの処理を並列化する必要があります。%n%n
 
 # db 673
 nomifactory.quest.db.673.title=Neptunium Fission
-nomifactory.quest.db.673.desc=Low-Enriched Neptunium 236, or §6LEN-236§r, is the next step in the fissile material fuel chain.%n%nThis fuel requires an 8:1 ratio of §6Neptunium 237§r to §6Neptunium 236§r. Using only the results from Thorium fission, it will take two batches of §6Depleted TBU Fuel§r to make your first LEN fuel.%n%nOf course, higher order reactions also will result in small amounts of Neptunium that you can work with as well.%n%n§6Depleted LEN 236§r gives a small bit of Neptunium 237 back, but principally provides §6Plutonium§r and §6Americium§r isotopes.%n
+nomifactory.quest.db.673.desc=低濃縮ネプツニウム236、または§6LEN-236§rは、核分裂性材料燃料チェーンの次のステップです。%n%n%nこの燃料には、§6Neptunium 237§rと§6Neptunium 236§rの8:1の比率が必要です。トリウム核分裂の結果のみを使用して、最初のLEN燃料を作るには§6Depleted TBU Fuel§rの2つのバッチが必要です。%n%nもちろん、高次反応により、少量のNeptuniumも作成できます。%n%n§6Depleted LEN 236§rはNeptunium 237を少し返しますが、主に§6Plu
 
 # db 674
 nomifactory.quest.db.674.title=LEU-233
