@@ -1577,43 +1577,43 @@ nomifactory.quest.db.491.desc=§aLumberaxes§f are tools that cut all connected 
 
 # db 492
 nomifactory.quest.db.492.title=Drill Baby Drill
-nomifactory.quest.db.492.desc=Is it expensive? Yes. Is it worth it? Hell yes.%n%nIt doesn't start to shine until you get the good upgrades for it though, so maybe hold off for a while.
+nomifactory.quest.db.492.desc=それは高いですか？はい。その価値はあるの?地獄はい。%n%nしかし、あなたがそれのための良いアップグレードを得るまで輝き始めないので、しばらく延期するかもしれません。
 
 # db 494
 nomifactory.quest.db.494.title=Fluid Terminal
-nomifactory.quest.db.494.desc=This terminal allows you to interact with fluid storage on your ME Network, like §aFluid Storage Disks§r.%n%nPut fluids in or remove fluids via this terminal with any GUI-compatible container, by clicking on a fluid to fill it, or an empty space to drain into the network.%n%nIt's a micropart, so you need to place it on §6ME Cable§r (not a conduit).
+nomifactory.quest.db.494.desc=このターミナルでは、§aFluid Storage Disks§r.%nなど、MEネットワーク上の流体ストレージと対話できます。§aFluid Storage Disks§r.%n%n流体をクリックするか、GUI互換コンテナを使用してこのターミナルを介して流体を経由して流体を移動したり、ネットワークに排出したりできます。%n%nはマイクロパーツなので、§6ME Cable§r（コンジットではありません）に配置する必要があります。
 
 # db 495
 nomifactory.quest.db.495.title=Storage Drawer Controller
-nomifactory.quest.db.495.desc=§aStorage Drawer Controllers§r are the central hub of any good storage system. They can pull from any drawers they are connected to (via other drawers, or drawer trims) within a 12 block cubic radius. This leads to a potential 25x25x25 area to connect drawers, centered on the controller.%n%nThe appearance can be customized by crafting the controller into §aFramed Controller§r and putting it into a §aFraming Table§r.%n%n§aController Slaves§r do not extend the range, but rather act as another access point to that controller - allowing you to push/pull from any of the drawers within range of the local Drawer Controller.%n%nConnecting an §6ME Storage Bus§f to a controller exposes all of the drawers to §bApplied Energistics§f. Particularly large networks can be laggy though, so keep your drawer networks a manageable size.%n
+nomifactory.quest.db.495.desc=§aStorage Drawer Controllers§rは、優れたストレージシステムの中心的なハブです。彼らは12ブロック立方半径以内に接続されている引き出し(他の引き出しまたは引き出しトリムを介して)から引っ張ることができます。これは、コントローラを中心に引き出しを接続する潜在的な25x25x25領域につながります。%n%n外観は、コントローラを§aFramed Controller§rに作成し、§aFraming Table§r.%n%n§aController Slaves§rに配置することでカスタマイズできます。範囲を拡張するのではなく、そのコントローラへの別のアクセスポイントとして機能します。%n%nただし、特に大規模なネットワークは遅れている可能性があるので、引き出しネットワークを管理可能なサイズにしてください。%n
 
 # db 496
 nomifactory.quest.db.496.title=Drawers
-nomifactory.quest.db.496.desc=§bStorage Drawers§f provide a huge amount of storage for a single item type. Use them for things you have a lot of, such as stone, dirt and ores.%n%nIf the default appearances aren't your style, the §3Framing Table§f is useful for making custom drawers out of §6Framed Drawers§f and up to three additional items which define how the resulting drawer will look.%n%nIn addition, the §aHand Framing Tool§r has been implemented, allowing you to reframe your drawers in world, and convert default drawers into Framed Drawers§r in-world. See the §eJEI Information Page§r of the Hand Framing Tool§r for more information.
+nomifactory.quest.db.496.desc=§bStorage Drawers§fは、単一のアイテムタイプに膨大な量のストレージを提供します。石、汚れ、鉱石など、たくさんあるものに使用してください。%n%nデフォルトの外観があなたのスタイルでない場合、§3Framing Table§fは、§6Framed Drawers§fからカスタム引き出しを作成し、結果の引き出しがどのように見えるかを定義する最大3つの追加アイテムに便利です。%n%nさらに、§aHand Framing Tool§rが実装されており、詳細については、ハンドフレーミングツール§rの§eJEI情報Page§rを参照してください。
 
 # db 497
 nomifactory.quest.db.497.title=Compacting Drawers
-nomifactory.quest.db.497.desc=Great for automatically converting between Nuggets, Ingots, and Blocks of metals, or simply storing massive amounts of things. Also works with §dOmnicoins§r.%n%nThe appearance can be customized by crafting the drawer into §aFramed Compacting Drawer§r and putting it into a §aFraming Table§r.
+nomifactory.quest.db.497.desc=ナゲット、インゴット、金属ブロックを自動的に変換したり、大量のものを保管したりするのに最適です。また、§dOmnicoins§r.%n%nでも動作します。外観は、引き出しを§aFramed Compacting Drawer§rに作成し、§aFraming Table§rに入れることでカスタマイズできます。
 
 # db 498
 nomifactory.quest.db.498.title=Soldering Alloy
-nomifactory.quest.db.498.desc=When making circuits, you'll need either molten §9Tin§r, or molten §9Soldering Alloy§r§r§r in the §3Assembling Machine§r. Soldering Alloy is made in the §3Alloy Smelter§r with a 9:1 ratio of §6Tin Ingots§r to §6Antimony Dust§r. You then process it in a §3Fluid Extractor §rfor the usual 144mB of fluid per ingot.%n%nThe Assembling Machine will only consume half as much Soldering Alloy as it would have consumed molten Tin per craft (72mB vs 144mB), so it's very efficient to use this stuff.%n%nPut your §3Centrifuge§r to work for the §6Antimony§r you'll need, which comes in tiny piles from processing §6Tetrahedrite Ore§r and §6Stibnite Ore§r.%n
+nomifactory.quest.db.498.desc=回路を作成するときは、§3Assembling Machine§rで§9Tin§rを溶かるか、§9Soldering Alloy§r§r§rを溶かる必要があります。はんだ付け合金は、§6Tin Ingots§rと§6Antimony Dust§rの9:1の比率で§3Alloy Smelter§rで作られています。その後、§3Fluid Extractor§rで処理します。インゴットあたり通常の144mBの流体。%n%nアセンブルマシンは、クラフトあたり溶融スズ(72mB対144mB)を消費するのと同じくらい半分のはんだ合金しか消費しないので、このものを使用するのは非常に効率的です。%n%n§6Tetra
 
 # db 499
 nomifactory.quest.db.499.title=Fine Copper Wire
-nomifactory.quest.db.499.desc=Now that you have a §3Wiremill§r, you can turn one §6Copper Wire§r into four §6Fine Copper Wire§r. The recipes for §6Resistors§r, §6LV Motors§r and §6Vacuum Tubes§r all accept either type, so doing this extra processing step will make your §6Copper Ingots§r go §efour times further§r when making circuits.%n%nYou'll be making a lot more circuits from here on out, so it's definitely worthwhile to save your copper!
+nomifactory.quest.db.499.desc=§3Wiremill§rができたので、1つの§6Copper Wire§rを4つの§6Fine Copper Wire§rに変えることができます。§6Resistors§r、§6LV Motors§r、§6Vacuum Tubes§rのレシピはすべていずれかのタイプを受け入れるので、この余分な処理ステップを実行すると、回路を作るときに§6Copper Ingots§rが§e4倍になります。%%%%nここからもっと多くの回路を作るので、銅を保存することは間違いなく価値があります!
 
 # db 500
 nomifactory.quest.db.500.title=The Fourth And Final Tier Three Circuits
-nomifactory.quest.db.500.desc=With your new §6Fiber-Reinforced Epoxy Circuit Boards§r, §6Nano CPUs§r, and some standard components, you can make the final type of Tier Three Circuit: the §6Nanocircuit§r.%n%nAs the best form of Tier Three circuit, these should be automated and stockpiled. As with the Final Tier Two circuits, the §6System-on-Chip§r variant recipes won't be available for a while.
+nomifactory.quest.db.500.desc=新しい§6繊維強化エポキシ回路基板§r、§6Nano CPUs§r、および一部の標準コンポーネントを使用すると、最終タイプのティア3回路を作成できます。§6Nanocircuit§r.%n%%nティア3回路の最良の形式として、これらは自動化され、備蓄する必要があります。Final Tier Two回路と同様に、§6System-on-Chip§rバリアントレシピはしばらく利用できなくなります。
 
 # db 501
 nomifactory.quest.db.501.title=Exotic Materials Catalyst
-nomifactory.quest.db.501.desc=A small appetizer, before the §dOmnium§r main course.%n%nAs the name suggests, this catalyst is formed from exotic non-elemental materials and alloys.
+nomifactory.quest.db.501.desc=§dOmnium§rメインコースの前に、小さな前菜。%n%n名前が示すように、この触媒はエキゾチックな非元素材料と合金から形成されます。
 
 # db 502
 nomifactory.quest.db.502.title=Capacitors
-nomifactory.quest.db.502.desc=§6Capacitors§r are devices that store electrical energy, which is useful for circuits.%n%nNot to be confused with §bEnderIO§r's capacitors§r, which store redstone flux.
+nomifactory.quest.db.502.desc=§6コンデンサ§rは電気エネルギーを蓄えるデバイスであり、回路に役立ちます。%n%nレッドストーンフラックスを格納する§bEnderIO§rのコンデンサ§rと混同しないでください。
 
 # db 503
 nomifactory.quest.db.503.title=Dark Soularium Ingots
@@ -1621,15 +1621,15 @@ nomifactory.quest.db.503.desc=
 
 # db 504
 nomifactory.quest.db.504.title=Brewery
-nomifactory.quest.db.504.desc=Note: this quest accepts both LV and MV Brewery.%n%nYou can turn §6Plant Balls§r and other various §6sugary crops§r into §9Biomass§r with a §3Brewery§r. Biomass is the first step towards making Plastic in the form of §9Polyethylene§r.%n%nThe Brewery is a very very slow machine, but it requires almost no power. Building higher tier Breweries, or many LV ones, is necessary to brew enough Biomass for plastics.
+nomifactory.quest.db.504.desc=注：このクエストはLV醸造所とMV醸造所の両方を受け入れます。%n%n§6Plant Balls§rおよびその他のさまざまな§6sugary作物§rを§3Brewery§rで§9Biomass§rに変えることができます。バイオマスは、§9Polyethylene§r.%n%%nの形でプラスチックを作るための第一歩です醸造所は非常に遅い機械ですが、ほとんど電力を必要としません。より高い層の醸造所、または多くのLV醸造所を構築することは、プラスチックのための十分なバイオマスを醸造するために必要です。
 
 # db 505
 nomifactory.quest.db.505.title=Ethanol
-nomifactory.quest.db.505.desc=§9Ethanol§r is alcohol, which you can first produce from distilling §9Biomass§r.%n%nBoiling §6Sugar Cane§r in a §3Brewery§r is a great way to get Biomass, but you can also get it from other crops and saplings if you want.%n%nOnce you have a hefty starting stock of Ethanol, consider making and distilling §9Fermented Biomass§r in a §3Distillation Tower§r for extra chemicals.
+nomifactory.quest.db.505.desc=§9エタノール§rはアルコールであり、§9Biomass§r.%n%n§3Brewery§rの§6Sugar Cane§rを蒸留して最初に生産することができますが、バイオマスを得るのに最適な方法ですが、必要に応じて他の作物や苗木から入手することもできます。%n%nエタノールの多額の開始在庫がある場合は、余分な化学物質のために§3蒸留タワー§rで§9発酵バイオマス§rを作成し、蒸留することを検討してください。
 
 # db 507
 nomifactory.quest.db.507.title=Chlorine
-nomifactory.quest.db.507.desc=You'll need §9Chlorine§r at this point. It is an important ingredient in many chemical processes, and you primarily get it from electrolyzing either §6Salt§r or §6Rock Salt§r.
+nomifactory.quest.db.507.desc=この時点で§9Chlorine§rが必要です。それは多くの化学プロセスで重要な成分であり、主に§6Salt§rまたは§6Rock Salt§rのいずれかを電解することから得られます。
 
 # db 508
 nomifactory.quest.db.508.title=Knightslime Ingots
@@ -1637,19 +1637,18 @@ nomifactory.quest.db.508.desc=
 
 # db 509
 nomifactory.quest.db.509.title=MV Lossless Cables
-nomifactory.quest.db.509.desc=§bEnderIO§r and §bThermal§r alloys are a bit more expensive than the normal wires, but they come with the huge advantage of being §elossless§r. Lossy cables like §6Tin§r and §6Copper§r will bleed out energy for every block they travel, but lossless ones do not.%n%nThe lossless cables for each tier are:%n%nLV - Conductive Iron Cables%nMV - Energetic Alloy Cables%nHV - Vibrant Alloy Cables%nEV - End Steel Cables%nIV - Lumium Cables%nLuV   - Signalum Cables%nZPMV - Enderium Cables%nUV     - Draconium Cables%nMaxV - Omnium Cables%n%nMV and higher cables are made in an §3Assembling Machine§r. They're made with liquid §9Rubber§r and §6Wires§r, plus a reusable §6Programmed Circuit§r that tells it what thickness of wire to make.%n%nYou can use Wires, and for these materials they'll conduct just as well as if they were covered. But they'll §ckill you if you touch them while power is passing through§r, so... yeah. Your call.
+nomifactory.quest.db.509.desc=§bEnderIO§rと§bThermal§r合金は、通常のワイヤーよりも少し高価ですが、§elossless§rであるという大きな利点があります。§6Tin§rや§6Copper§rのような可逆ケーブルは、移動するブロックごとにエネルギーを排出しますが、可逆ケーブルは排出しません。%n%n各層の可逆ケーブルは次のとおりです。%n%nnLV - 導電性合金ケーブル%nMV - エネルギー合金ケーブル%nHV - 鮮やかな合金ケーブル%nEV - それらは液体§9Rubber§rと§6Wires§rに加えて、使用するワイヤーの厚さを示す再利用可能な§6Programmed Circuit§rで作られています。%n%nワイヤーを使用でき、これらの材料については、カバーされている場合と同様に実施します。しかし、電力が§rを通過している間、あなたがそれらに触れると、彼らはあなたを殺します。あなたの電話。
 
 # db 510
 nomifactory.quest.db.510.title=Dew Of The Void
-nomifactory.quest.db.510.desc=Mix together these two crushed gems along with §9Resonant Ender§r to make §9Dew of the Void§r, the fluid that will power §bEnderIO§r interdimensional teleportation.%n%nPlease note that Dew of the Void goes great with Doritos.
-
+nomifactory.quest.db.510.desc=これら2つの砕いた宝石を§9Resonant Ender§rと一緒に混ぜて、§9Dew of the Void§r、§bEnderIO§r次元間テレポーテーションに電力を供給する流体にします。%n%nVoidの露はドリトスとうまくいくことに注意してください。
 # db 511
 nomifactory.quest.db.511.title=The Vat
-nomifactory.quest.db.511.desc=§bEnderIO§r's equivalent of a §3Chemical Reactor§r, roughly speaking.%n%nThe only way to make several important liquids from EnderIO.
+nomifactory.quest.db.511.desc=§bEnderIO§rは§3Chemical Reactor§rに相当し、大まかに言えば。%n%%nEnderIOからいくつかの重要な液体を作る唯一の方法。
 
 # db 512
 nomifactory.quest.db.512.title=Slice'N'Splice
-nomifactory.quest.db.512.desc=The §3Slice'N'Splice§r is a machine from §bEnderIO§r.%n%nIt is used for making monster-head-related items that are components for various things.%n%nIt needs to be supplied with an Axe and Shears, which are slowly damaged over time as items are crafted.
+nomifactory.quest.db.512.desc=§3Slice'N'Splice§rは、§bEnderIO§r.%n%nのマシンです。これは、さまざまなもののコンポーネントであるモンスターヘッド関連のアイテムの製造に使用されます。%n%nアイテムが細工されるにつれて時間の経過とともにゆっくりと損傷する斧とはさみを付属する必要があります。
 
 # db 513
 nomifactory.quest.db.513.title=Red Steel Ingots
@@ -1657,55 +1656,55 @@ nomifactory.quest.db.513.desc=
 
 # db 516
 nomifactory.quest.db.516.title=LV Conveyor
-nomifactory.quest.db.516.desc=Not as common a component, but used in a number of critical machines.%n%nAlso useful as a machine cover for continuously moving items.
+nomifactory.quest.db.516.desc=一般的なコンポーネントではありませんが、多くの重要なマシンで使用されます。%n%nアイテムを継続的に移動するためのマシンカバーとしても役立ちます。
 
 # db 517
 nomifactory.quest.db.517.title=LV Robot Arm
-nomifactory.quest.db.517.desc=§6Robot Arms§r are components of several powerful machines, and are also useful as a machine cover for precise item movement.%n%nOne of the most expensive components, as it requires motors, pistons, and a circuit.
+nomifactory.quest.db.517.desc=§6Robot Arms§rは、いくつかの強力なマシンのコンポーネントであり、正確なアイテムの動きのためのマシンカバーとしても役立ちます。%n%nモーター、ピストン、および回路を必要とするため、最も高価なコンポーネントの1つ。
 
 # db 519
 nomifactory.quest.db.519.title=Naquadah Reactor Mk1
-nomifactory.quest.db.519.desc=The §3Naquadah Reactor Mk1§r is a structure used to generate considerable amounts of EU power from decaying §6Enriched Naquadah§r or §6Naquadria§r into §6Lead§r.%n%nYou'll have to use a §6CEU§r if you want to convert EU to RF.%n%n§6Sneak-right click§r the controller to enable the in-world preview.
+nomifactory.quest.db.519.desc=§3Naquadah Reactor Mk1§rは、§6Enriched Naquadah§rまたは§6Naquadria§rを§6Lead§r.%n%n%nに腐敗させることからかなりの量のEU電力を生成するために使用される構造です。EUをRF.%n%n§6Sneak-right click§rに変換して、
 
 # db 520
 nomifactory.quest.db.520.title=The Second Tier Four Circuits
-nomifactory.quest.db.520.desc=Four §6Microprocessors§r combined with §6Titanium Plates§r and a few other standard components will make a §6Microprocessor Array§r.
+nomifactory.quest.db.520.desc=§6Titanium Plates§rと他のいくつかの標準コンポーネントと組み合わせた4つの§6Microprocessors§rは、§6Microprocessor Array§rになります。
 
 # db 521
 nomifactory.quest.db.521.title=Resonant Upgrade Kit
-nomifactory.quest.db.521.desc=Provides more augment slots to machines and dynamos.%n%nDynamos operate at §a1000%% of base power and fuel burn rate§r.%n%nPortable Tanks hold §a1250 buckets§r.%n%nMachines operate at §a600%% of base speed§r.
+nomifactory.quest.db.521.desc=機械とダイナモにより多くの拡張スロットを提供します。%n%nダイナモスは、ベースパワーと燃料燃焼率§a1000%%で動作します§r.%n%nポータブルタンクは§a1250バケットを保持します§r.%n%nマシンはベース速度§rの§600%%で動作します。
 
 # db 522
 nomifactory.quest.db.522.title=LuV Compressor
-nomifactory.quest.db.522.desc=This compressor is needed for making §6Iridium Heavy Plating§r and §6Enderium Heavy Plating§r.
+nomifactory.quest.db.522.desc=このコンプレッサーは、§6Iridium Heavy Plating§rと§6Enderium Heavy Plating§rの製造に必要です。
 
 # db 523
 nomifactory.quest.db.523.title=The Second Tier Five Circuits
-nomifactory.quest.db.523.desc=Upgrading to the §6Nanoprocessor Array§r requires some standard circuit components, but also some §6Lumium Wire§r and §6Tungstensteel Plates§r.
+nomifactory.quest.db.523.desc=§6ナノプロセッサArray§rへのアップグレードには、いくつかの標準回路コンポーネントだけでなく、いくつかの§6Lumium Wire§rと§6Tungstensteel Plates§rも必要です。
 
 # db 524
 nomifactory.quest.db.524.title=The First Tier Six Circuits
-nomifactory.quest.db.524.desc=The first and most expensive Tier Six Circuit, needed for crafting the §3IV Assembling Machine§r.%n%nRequires a bunch of standard circuit components, as well as multiple §6Lumium Wire§r and §6Tungstensteel Frames§r.
+nomifactory.quest.db.524.desc=§3IV組み立て機械の作成に必要な最初で最も高価なティア6回路§r.%n%nRは、標準回路コンポーネントの束だけでなく、複数の§6Lumium Wire§rと§6Tungstensteel Frames§rが必要です。
 
 # db 525
 nomifactory.quest.db.525.title=The Third Tier Four Circuits
-nomifactory.quest.db.525.desc=Nothing you haven't seen here: just combine some standard circuit components and §6Nanocircuits§r to make a §6Nanoprocessor§r.
+nomifactory.quest.db.525.desc=ここで見たことのないものは何もありません。標準回路コンポーネントと§6Nanocircuits§rを組み合わせて§6Nanoprocessor§rを作成するだけです。
 
 # db 526
 nomifactory.quest.db.526.title=EV Assembling Machine
-nomifactory.quest.db.526.desc=With your §6Titanium§r-based machine hulls and §6Microprocessor Mainframes§r squared away, you can finally get on the path to making an Extreme Voltage §3Assembling Machine§r.%n%nThis tier of Assembling Machine unlocks §6Nanocircuits§r, as well as handling crafting recipes up to 2048 EU/t. It can also optionally overclock recipes that consume up to 512 EU/t for improved speed at the cost of relatively more power.
+nomifactory.quest.db.526.desc=§6Titanium§rベースのマシン船体と§6マイクロプロセッサメインフレーム§rを二乗すると、最終的に極端な電圧§3組み立てマシン§r.%n%nを作るためのパスに乗ることができます。この層の組み立てマシンは、§6Nanocircuits§rのロックを解除し、2048 EU / tまでのクラフトレシピを処理します。また、比較的多くの電力を犠牲にして速度を向上させるために最大512 EU / tを消費するレシピをオプションでオーバークロックすることもできます。
 
 # db 527
 nomifactory.quest.db.527.title=Lumium
-nomifactory.quest.db.527.desc=Glowing!%n%nThis one takes a significant amount of time to cook, so make sure to have it going constantly.%n%nWires made from §6Lumium§r transmit IV power losslessly, and it forms the basis for §6LuV Machine Hulls§r.
+nomifactory.quest.db.527.desc=輝く！%n%nこれは調理にかなりの時間がかかるので、常に進んでいることを確認してください。§6Lumium§rから作られた%n%nWiresはIVの電力を損失なく送信し、§6LuV Machine Hulls§rの基礎を形成します。
 
 # db 528
 nomifactory.quest.db.528.title=Hardened Upgrade Kit
-nomifactory.quest.db.528.desc=What?!%n§6STEAM DYNAMO§r is evolving!%n%nUpgrade kits can be applied to Thermal Expansion Dynamos, machines, and even Portable Tanks. Machines and dynamos get additional augment slots.%n%nWhen applied to a dynamo, it increases the §apower generation and fuel burn rate to 150%%§r.%n%nIncreases the base capacity of Portable Tanks to §a200 buckets§r.%n%nAllows machines operate at §a150%% of base power per tick§r. The more power a machine can use, the faster it works.%n
+nomifactory.quest.db.528.desc=なんだって!?%n§6STEAM DYNAMO§rは進化しています!%N%nアップグレードキットは、熱膨張ダイナモ、機械、さらにはポータブルタンクにも適用できます。マシンとダイナモは追加の拡張スロットを取得します。%n%nダイナモに適用すると、§apowerの生成と燃料燃焼率が150%%§r.%n%nにポータブルタンクの基本容量を§a200バケット§r.%n%nに増加させ、機械が tick§rあたりの基本電力の§150%%で動作します。機械が使用できる電力が多ければ多いほど、より高速に動作します。%n
 
 # db 529
 nomifactory.quest.db.529.title=IV Assembling Machine
-nomifactory.quest.db.529.desc=With your §6Tungstensteel§r-based machine hulls and §6Nanoprocessor Mainframes§r squared away, you can finally get on the path to making an Insane Voltage §3Assembling Machine§r.%n%nThis tier of Assembling Machine unlocks §6Quantum Circuits§r, as well as handling crafting recipes up to 8192 EU/t. It can also optionally overclock recipes that consume up to 2048 EU/t for improved speed at the cost of relatively more power.
+nomifactory.quest.db.529.desc=§6Tungstensteel§rベースのマシン船体と§6ナノプロセッサメインフレーム§rを二乗すると、最終的に非常識な電圧§3組み立て機械を作るためのパスに乗ることができます§r.%n%nこの層の組み立てマシンは、§6Quantum Circuits§rのロックを解除するだけでなく、8192 EU / tまでのクラフトレシピを処理します。また、オプションで、比較的多くの電力を犠牲にして速度を向上させるために最大2048 EU / tを消費するレシピをオーバークロックすることもできます。
 
 # db 530
 nomifactory.quest.db.530.title=Your First Circuit
