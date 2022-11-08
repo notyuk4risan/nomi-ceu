@@ -1709,35 +1709,35 @@ nomifactory.quest.db.529.desc=With your §6Tungstensteel§r-based machine hulls 
 
 # db 530
 nomifactory.quest.db.530.title=Your First Circuit
-nomifactory.quest.db.530.desc=With all of the components made, it's time to craft a §6Primitive Circuit§r.%n%nThis is where your §3Crafting Station§f setups will really shine! With the patterns encoded into a Crafting Stations (well, really over §omany§r Crafting Stations), you'll be able to §ebatch craft circuits quickly§f.%n%nYou'll be making a LOT§r of circuits, so take advantage of the improved crafting efficiency.
+nomifactory.quest.db.530.desc=すべてのコンポーネントが作成されたので、§6Primitive Circuit§rを作成する時が来ました。%n%nこれはあなたの§3Crafting Station§fセットアップが本当に輝く場所です!パターンをクラフトステーションにエンコードすると(まあ、本当に§omany§rクラフトステーションの上に)、クラフト回路をすばやく§ebatchすることができます§f.%n%%nあなたは回路のLOT§rを作るので、改善されたクラフト効率を活用してください。
 
 # db 531
 nomifactory.quest.db.531.title=The First Tier Seven Circuits
-nomifactory.quest.db.531.desc=Now that you have an §3Assembly Line§r you can craft the §6Quantum Processor Mainframe§r, the first Tier Seven circuit.%n%nThese are required for crafting the Ludicrous Voltage (LuV) §3Assembling Machine§r.%n%nThis recipe requires some §6Quantum Stars§r, which are made in a §3Chemical Bath§r with a §6Nether Star§r and §9Radon§r. It also needs some §6HSS-G Frames§r and significant quantities of §6SMD Components§r.
+nomifactory.quest.db.531.desc=これで§3Assembly Line§rを持っているので、§6Quantum Processor Mainframe§r、最初のTier Seven回路を作成できます。%n%nこれらは、Ludicrous Voltage(LuV)§3Assembling Machine§rを作成するために必要です。%n%n%nこのレシピには、§6Nether Star§rと§9Radon§また、§6HSS-G Frames§rと大量の§6SMD Components§rも必要です。
 
 # db 532
 nomifactory.quest.db.532.title=HV Assembling Machine
-nomifactory.quest.db.532.desc=The §3HV Assembling Machine§r unlocks §6Microcircuits§r, as well as handling crafting recipes that consume up to 512 EU/t.%n%nIt can also optionally overclock recipes up to 128 EU/t, gaining additional speed for relatively more power.
+nomifactory.quest.db.532.desc=§3HV Assembling Machine§rは、§6Microcircuits§rのロックを解除し、最大512 EU / t.%n%nを消費するクラフトレシピを処理します。また、オプションで最大128 EU / tのレシピをオーバークロックし、比較的多くの電力のために追加の速度を得ることもできます。
 
 # db 533
 nomifactory.quest.db.533.title=ZPM Assembling Machine
-nomifactory.quest.db.533.desc=With your §6Iridium§r-based machine hulls and §6Crystal Processor Mainframes§r squared away, you can finally get on the path to making a ZPM §3Assembling Machine§r.%n%nThis tier of Assembling Machine unlocks §6Wetware Circuits§r, as well as handling crafting recipes up to 131072 EU/t. It can also optionally overclock recipes that consume up to 32768 EU/t for improved speed at the cost of relatively more power.
+nomifactory.quest.db.533.desc=§6Iridium§rベースのマシン船体と§6Crystal Processor Mainframes§rを二乗すると、最終的にZPM §3Assembling Machine§r.%n%n作成マシンのこの層は、§6Wetware Circuits§rのロックを解除し、最大131072 EU / tのクラフトレシピを処理します。また、比較的多くの電力を犠牲にして速度を向上させるために最大32768 EU / tを消費するレシピをオプションでオーバークロックすることもできます。
 
 # db 534
 nomifactory.quest.db.534.title=The Second Tier Seven Circuits
-nomifactory.quest.db.534.desc=With §6Draconium§r, §6Enderium§r, and some §6HPICs§r, you can assemble a §6Crystal Processor Array§r.
+nomifactory.quest.db.534.desc=§6Draconium§r、§6Enderium§r、および一部の§6HPICs§rを使用すると、§6Crystal Processor Array§rを組み立てることができます。
 
 # db 535
 nomifactory.quest.db.535.title=The First Tier Eight Circuits
-nomifactory.quest.db.535.desc=The §6Crystal Processor Mainframe§r is the first Tier Eight circuit.%n%nAlong with things you already know how to make, this needs §6HSS-E Frames§r.%n%nThese are required for crafting the §3ZPM Assembling Machine§r. As usual, these are extremely expensive: invest in the next theme of circuits instead of trying to mass-produce these.%n
+nomifactory.quest.db.535.desc=§6クリスタルプロセッサメインフレーム§rは、最初のティア8回路です。%n%nあなたがすでに作る方法を知っているものと一緒に、これは§6HSS-Eフレーム§r.%n%nこれらが§3ZPMアセンブルマシン§rを作成するために必要です。いつものように、これらは非常に高価です:これらを大量生産しようとするのではなく、回路の次のテーマに投資してください。%n
 
 # db 536
 nomifactory.quest.db.536.title=ZPM Machine Hulls
-nomifactory.quest.db.536.desc=§6ZPM Machine Hulls§r are made with §6Iridium Plates§r, but you'll notice they also need §9Polytetrafluoroethylene§r (more commonly known as Teflon™), a special plastic which will be required for all machine hulls going forward.%n%nZPM stands for Zero Point Module.%n%nThis is the last tier of machine that's sensible to produce before you reach the §dCreative Portable Tank§r. Multiblock hatches are a different matter: feel free to upgrade your §3EBF§rs to Ultimate Voltage, if you can handle the power drain.%n
+nomifactory.quest.db.536.desc=§6ZPMマシン船体§rは§6イリジウムプレート§rで作られていますが、今後すべての機械船体に必要な特別なプラスチックである§9ポリテトラフルオロエチレン§r(より一般的にはテフロンTMとして知られている)も必要であることに気づくでしょう。%n%nZPMはゼロポイントモジュールの略です。%n%nこれは、§マルチブロックハッチは別の問題です。パワードレインを処理できる場合は、§3EBF§rsをUltimate Voltageにアップグレードしてください。%n
 
 # db 537
 nomifactory.quest.db.537.title=Sterilized Growth Medium
-nomifactory.quest.db.537.desc=§9Sterilized Growth Medium§r is needed for §6Wetware Circuits§r.%n%nYou'll need to mix §6Mincemeat§r, §6Sugar§r, and §6Tiny piles of Salt§r with water in a mixer to make §9Raw Growth Medium§r, then use a §3Fluid Heater§r to sterilize it.%n%nMincemeat comes from pulverizing any kind of animal meat. A §aPowered Spawner§r might be useful for this endeavor.
+nomifactory.quest.db.537.desc=§9Sterilized Growth Medium§rは、§6Wetware Circuits§r.%n%nに必要です§6Mincemeat§r、§6Sugar§r、および§6Tinyの塩の山をミキサーに水に入れて§9Raw Growth Medium§rを作り、§3Fluid Heater§rを使用して滅菌する必要があります。%§aPowered Spawner§rは、この取り組みに役立つかもしれません。
 
 # db 539
 nomifactory.quest.db.539.title=Phosphorus
@@ -1745,15 +1745,15 @@ nomifactory.quest.db.539.desc=§6Phosphorus§r can be obtained by processing §6
 
 # db 540
 nomifactory.quest.db.540.title=MV Extruder
-nomifactory.quest.db.540.desc=The §3Extruder§r is an alternative way to form shapes from metal. §aExtruder Shapes§r are used for telling an Extruder which shape to make.%n%nExtruders are the only way to make certain things, like §6Large Pipes§r. Extruders use ingots, but are as efficient for making §6Gears§r as melting and solidifying.%n%nYou can also use Extruders to make things from other machines like plates and wires, but they are less efficient than using the dedicated machines for these purposes.
+nomifactory.quest.db.540.desc=§3Extruder§rは、金属から形状を形成する別の方法です。§aExtruder Shapes§rは、どの形状を作るかを押出機に伝えるために使用されます。%n%n押出機は、§6Large Pipes§rのような特定のものを作る唯一の方法です。押出機はインゴットを使用しますが、§6Gears§rを溶融して凝固させるのと同じくらい効率的です。%n%n押出機を使用してプレートやワイヤーなどの他の機械から物を作ることもできますが、これらの目的のために専用マシンを使用するよりも効率が低いです。
 
 # db 541
 nomifactory.quest.db.541.title=More Blast Furnaces
-nomifactory.quest.db.541.desc=Overclocking aside, as you continue to progress in §5Nomifactory§f, materials made in the §3Electric Blast Furnace§f will take longer to complete. §eMore advanced coils do not give speed bonuses§f, only allowing for the furnace to §eget hot enough to process more advanced materials§f.%n%nConsequently, you'll need to continually expand your smelting and power generation infrastructure.%n%nYou don't have to get all four of these Electric Blast Furnaces completed and running just yet, but be prepared to make many of them over the course of the pack.
+nomifactory.quest.db.541.desc=オーバークロックはさておき、§5Nomifactory§fで進歩し続けるにつれて、§3Electric Blast Furnace§fで作られた材料は、完了までに時間がかかります。 §eより高度なコイルはスピードボーナスを与えません§f、より高度な材料を処理するのに十分な熱くなることを可能にするだけで§f.%n%nその結果、製錬および発電のインフラストラクチャを継続的に拡張する必要があります。
 
 # db 542
 nomifactory.quest.db.542.title=Soul Binder
-nomifactory.quest.db.542.desc=The §3Soul Binder§r is an §bEnderIO§r machine which uses §aSoul Vials§r and Experience to enhance specific items.%n%nIt may be prudent to store §9Liquid XP§r in an adjacent §3Obelisk§r, which the Soul Binder can draw from directly, or you can insert it using other standard means of fluid routing.
+nomifactory.quest.db.542.desc=彼§3Soul Binder§rは、§aSoul Vials§rとExperienceを使用して特定のアイテムを強化する§bEnderIO§rマシンです。%n%n§9Liquid XP§rを隣接する§3Obelisk§rに保存することが賢明かもしれません。これは、ソウルバインダーが直接引き出すことができます。または他の標準的な流体ルーティング手段
 
 # db 543
 nomifactory.quest.db.543.title=Blue Steel Ingots
@@ -1769,31 +1769,31 @@ nomifactory.quest.db.545.desc=Carry §oeven more§r stuff.
 
 # db 546
 nomifactory.quest.db.546.title=I Don't Need No Stinkin' Tower
-nomifactory.quest.db.546.desc=Note: this quest accepts both LV and MV Distillery.%n%nIf you don't feel up to making a §3Distillation Tower§r just yet, you can get §9Ethanol§r via a single block §3Distillery§r, a machine that gets one fluid output per §6Integrated Circuit§r configuration, while the §3Distillation Tower§r gives all possible outputs for the input fluid. This defers the tower for a little while longer.%n%nHowever, the Distillation Tower is mandatory for advanced chemistry, as most things have more than one important output: §9Fermented Biomass§r, §9Charcoal Byproducts§r from your §3Pyrolyse Oven§r, and the entire line of petrochemicals from §9Oil§r, to name a few.%n%nCan't avoid it forever!%n%n
+nomifactory.quest.db.546.desc=注：このクエストはLV蒸留所とMV蒸留所の両方を受け入れます。%n%nまだ§3Distillation Tower§rを作る気がしない場合は、§6Integrated Circuit§r構成ごとに1つの流体出力を取得するマシンである単一のブロック§3Distillery§rを介して§9Ethanol§rを得ることができますが、§3Distillation Tower§rこれはタワーを少し長く延期します。%n%nしかし、ほとんどのものが複数の重要な出力を持っているため、蒸留塔は高度な化学に必須です:§9Fermented Biomass§r、§3Pyrolyse Oven§rの§9Charcoal Byproducts§r、および§9Oil§rからの石油化学薬品の全ライン、いくつか例を挙げると。%n%n永遠にそれを避けることはできません!%N%n
 
 # db 547
 nomifactory.quest.db.547.title=Scanner Module: Block
-nomifactory.quest.db.547.desc=A good way to find a specific ore you're missing is the §6Scanner Module: Block§r for your Scanner. §6Sneak-right click§f a piece of ore you want to search for with a Module in your hand, then §6sneak-right click§f the §aScanner§f, put the module inside, and go wander around scanning. %n%nThe range is significantly longer than it is when using the modules which detect all ores, and you even have room for a second §6Range Module§f if you've got an §6Ender Pearl§f to craft one.%n%nYou can combo this with ores bought from §dOmnicoins§f to act as a "sample" to easily find a full vein with the Block Module.
+nomifactory.quest.db.547.desc=不足している特定の鉱石を見つける良い方法は、スキャナー用の§6Scanner Module: Block§rです。§6Sneak-right click§f モジュールを手で検索したい鉱石、§6sneak-right click§f §aScanner§f、モジュールを中に入れて、スキャンをさまよう。 %n%n範囲は、すべての鉱石を検出するモジュールを使用する場合よりもはるかに長く、§6Ender Pearl§fがある場合は、2番目の§6Range Module§fの
 
 # db 548
 nomifactory.quest.db.548.title=Molds
-nomifactory.quest.db.548.desc=§aMolds§r are used in a §3Fluid Solidifier§r or §3Alloy Smelter§r to form materials into specific shapes. These are not consumed or damaged during crafting, so you can leave them in a machine to dedicate it to that shape.%n%nThe Fluid Solidifier tends to be the more efficient option: for example, you can use §e8 ingots§r to make one §6Gear§r in an Alloy Smelter, but with a Fluid Extractor and Solidifier you can accomplish the same result with §e4 ingots§r.%n%nBe careful not to accidentally make §aExtruder Shapes§r. Those are for a machine you will get access to later. The three molds in this quest are ones you will find useful right away.
+nomifactory.quest.db.548.desc=§aMolds§rは、§3Fluid Solidifier§rまたは§3Alloy Smelter§rで使用され、材料を特定の形状に成形します。これらはクラフト中に消費または損傷しないため、その形状に捧げるために機械に残すことができます。%n%n流体凝固剤はより効率的なオプションである傾向があります。たとえば、§8 ingots§rを使用して合金製錬所で1つの§6Gear§rを作成できますが、流体抽出器とSolidifierを使用すると、§e4 ingots§r.%n%n誤って§aExtruder Shapes§rを作成しないように注意してください。これらは、後でアクセスできるマシン用です。このクエストの3つの型は、すぐに役に立つと思います。
 
 # db 549
 nomifactory.quest.db.549.title=Oil Drilling Rig
-nomifactory.quest.db.549.desc=If you don't like the idea of mining out Oilsands veins, you can build an §3Oil Drilling Rig§r.%n%nYou'll need to provide it with power, §9Drilling Fluid§r, and a steady supply of §6Pipes§r. The Pipes only have a 1%% chance to break per bucket of §9Oil§r drilled.%n%nYou'll need to supply at least §eHV power§r to your rig, and it will overclock with higher energy tiers. Positions of hatches and buses can be swapped with any §6Solid Steel Machine Casing§r.%n%nIf the multiblock preview in §bJEI§r is confusing, note that you can §ehold shift and drag-right-click§r to scale the preview to fit the window. Place then §6sneak-right click§r the controller block with an empty hand to enable the in-world preview.%n%nKeep in mind when placing the structure that there are 12 pipes that extend downward from the level of the controller.%n
+nomifactory.quest.db.549.desc=Oilsands静脈を採掘するアイデアが気に入らない場合は、§3Oil Drilling Rig§r.%n%n電力、§9Drilling Fluid§r、および§6Pipes§rの安定した供給を提供する必要があります。パイプは、掘削された§9Oil§rのバケットごとに壊れる可能性は1%しかありません。%n%n少なくとも§eHV power§rをリグに供給する必要があり、より高いエネルギー層でオーバークロックします。ハッチとバスの位置は、任意の§6Solid Steel Machine Casing§r.%n%nと交換できます。§bJEI§rのマルチブロックプレビューが混乱している場合は、§ehold shiftとdrag-right-click§rでプレビューをウィンドウに合わせてスケーリングできることに注意してください。その後、§6sneak-right click§rを空の手でコントローラブロックを配置して、世界のプレビューを有効にします。%n%nコントローラのレベルから下方に伸びる12本のパイプがある構造を配置するときは注意してください。%n
 
 # db 550
 nomifactory.quest.db.550.title=Vertical Digger
-nomifactory.quest.db.550.desc=Place the §3Vertical Digger§r over an ore vein, feed it RF, and it will mine up the entire vein for you.%n%nFor drills, you will need a §6GregTech Drill§r (any LV drill will work), a §6Fluxbore§r (Reinforced tier is required) and an §6Actually Additions Drill§r (any color is fine, but take out any augments you wish to keep).%n%nThe GregTech Drill will not be consumed, but everything else will be.
+nomifactory.quest.db.550.desc=§3Vertical Digger§rを鉱石静脈の上に置き、それをRFに供給し、それはあなたのために静脈全体を採掘します。%n%nドリルの場合、§6GregTechドリル§r(任意のLVドリルが動作します)、§6Fluxbore§r(強化層が必要です)、および§6Actually Additions Drill§r(任意の色は問題ありませんが、保持したい増強物を取り出します)。%n%%nGregTechドリルは消費されませんが、他のすべてが必要になります。
 
 # db 551
 nomifactory.quest.db.551.title=Phantom Booster
-nomifactory.quest.db.551.desc=Up to three §aPhantom Boosters§r can be placed atop the §3Vertical Digger§r to increase its area of effect.%n%nThese are also useful for extending the range of other "Phantom" machines and devices from §bActually Additions§r.
+nomifactory.quest.db.551.desc=最大3つの§aPhantom Boosters§rを§3Vertical Digger§rの上に配置して、効果の領域を増やすことができます。%n%nこれらは、§bActually Additions§rから他の「ファントム」マシンやデバイスの範囲を拡張するのにも役立ちます。
 
 # db 552
 nomifactory.quest.db.552.title=Leadstone Jetpack
-nomifactory.quest.db.552.desc=Being able to fly is pretty sick. It's also pretty expensive.%n%nIt's probably a bit premature to consider a §6jetpack§r at this point, but if you really want to craft this bad boy, I won't stop you.%n%nThere's also a quest chain for §bEnderIO§r Jetpacks (starting with the §6Conductive Iron Jetpack§r). Eventually you'll need to make both, but not for a long time, so feel free to ignore at least one of these quest chains unless you really really like flying.%n%nIf the §6Jetpack§r overview and information from §bThe One Probe§r conflict, they can be adjusted through the §bSimply Jetpacks 2§r §eConfiguration file§r or the command §6/topcfg§r respectively.
+nomifactory.quest.db.552.desc=飛べるのはかなり病気です。また、かなり高価です。%n%nこの時点で§6jetpack§rを検討するのはおそらく少し時期尚早ですが、あなたが本当にこの悪い男の子を作りたいのなら、私はあなたを止めません。%n§bEnderIO§r Jetpacksのクエストチェーンもあります(§6Conductive Iron Jetpack§rから始まります)。最終的には両方を作成する必要がありますが、長期間ではないので、飛行が本当に好きでない限り、これらのクエストチェーンの少なくとも1つを無視してください。%n§6Jetpack§rの概要と§bThe One Probe§rからの情報が競合する場合は、それぞれ§bSimply Jetpacks 2§r §eConfiguration file§rまたはコマンド§6/topcfg§rでそれぞれ調整できます。
 
 # db 553
 nomifactory.quest.db.553.title=Hardened Jetpack
@@ -1801,31 +1801,31 @@ nomifactory.quest.db.553.desc=Better flying.
 
 # db 554
 nomifactory.quest.db.554.title=Reinforced Jetpack
-nomifactory.quest.db.554.desc=Even better flying.%n%nYou're not getting up to Resonant for a long time, just FYI.
+nomifactory.quest.db.554.desc=さらに良い飛行。%n%%nあなたは長い間Resonantに起きていません、参考までに。
 
 # db 555
 nomifactory.quest.db.555.title=Fluxed Phyto-Gro
-nomifactory.quest.db.555.desc=§6Rich Phyto-Gro§r can be further enhanced by infusing it with Redstone Flux in the §3Energetic Infuser§r.
+nomifactory.quest.db.555.desc=§6Rich Phyto-Gro§rは、§3Energetic Infuser§rにRedstone Fluxを注入することで、さらに強化することができます。
 
 # db 556
 nomifactory.quest.db.556.title=Bounties For Omnicoins!
-nomifactory.quest.db.556.desc=Now that you have a §3Wiremill§f and a §3Compressor§f, you can consider starting to do §eBounties§f. The §6Bounty Board§f has a global inventory containing quests to turn in specific items in exchange for §dOmnicoins§f. These quests have a fairly short duration, so make sure to §estockpile the items§f that come up on them or else they'll §cexpire before you can complete them§f.%n%nWith renewable §dOmnicoins§f, you should feel free to spend the ones you have on whatever you need. §aSpend your coins!
+nomifactory.quest.db.556.desc=§3Wiremill§fと§3Compressor§fを持っているので、§eBounties§fを開始することを検討できます。§6Bounty Board§fには、§dOmnicoins§fと引き換えに特定のアイテムを提出するクエストを含むグローバルインベントリがあります。これらのクエストの期間はかなり短いので、それらに出てくるitems§fを§estockpileにしてください。そうしないと、それらを完了する前に§cexpireします§f.%n%n再生可能な§dOmnicoins§fを使用すると、必要なものに持っているものを自由に費やす必要があります。 §aコインを費やす!
 
 # db 558
 nomifactory.quest.db.558.title=Fuel Catalyzers
-nomifactory.quest.db.558.desc=This is an augment that will work in all §3dynamos§f. It increases the efficiency of the fuel being used inside the dynamo, increasing the power it generates. However, the rate of power generation remains the same, the fuel simply lasts longer. So, while §6Fuel Catalyzers§f decrease the amount you'll need to go mining for §6Coal§f, they won't boost your production of RF per second.%n%nEach Fuel Catalyzer increases fuel efficiency by §a15%%§f, additively (so two will make fuel last §a30%% longer§f, three is §a45%% longer§f, etc.).
+nomifactory.quest.db.558.desc=これは、すべての§3dynamos§fで動作する拡張機能です。ダイナモ内で使用されている燃料の効率を高め、発電する電力を増やします。しかし、発電速度は同じままであり、燃料は単に長持ちします。したがって、§6燃料キャタライザー§fは§6Coal§fの採掘に行く必要がある量を減らしますが、1秒あたりのRFの生産を後押ししません。%n%n各燃料カタライザーは、加算的に§a15%%§fによって燃料効率を向上させます(したがって、2つは燃料を最後の§a30%%長く§f、3つは§a45%%長い§f
 
 # db 559
 nomifactory.quest.db.559.title=Auxiliary Transmission Coils
-nomifactory.quest.db.559.desc=The §aAuxiliary Transmission Coil §ris an augment that will work in all types of dynamos. It will consume fuel faster to produce a correspondingly higher RF per tick.%n%nEach augment increases both base power production and fuel consumption by 100%%, additively (so the second is 200%%, third is 300%%, etc.).%n%nConsider the tradeoffs however, as you could just make another dynamo, and you miss out on §aFuel Catalyzer§r augments that make fuels burn longer for more total RF generated. The Auxiliary Transmission Coil will put additional stress your fuel production infrastructure.%n%nIf that's an acceptable tradeoff, then Auxiliary Transmission Coils are a cheap and effective way to boost your power production.
+nomifactory.quest.db.559.desc=§A補助トランスミッションコイル§risは、あらゆる種類のダイナモで動作する拡張機能です。ティックごとに対応する高いRFを生成するために燃料をより速く消費します。%n%n各増強は、基本電力生産と燃料消費量の両方を100%%増加させます（したがって、2番目は200%%%、3番目は300%%%などです）。%nただし、トレードオフを考慮してください。ただし、別のダイナモを作ることができ、燃料をより長く燃焼させる§aFuel Catalyzer§rの拡張子を逃して、生成された総RFを生成します。補助トランスミッションコイルは、燃料生産インフラにさらなるストレスを与えます。%n%nそれが許容可能なトレードオフであれば、補助トランスミッションコイルは、電力生産を後押しするための安価で効果的な方法です。
 
 # db 564
 nomifactory.quest.db.564.title=Neutronium Solar Panel
-nomifactory.quest.db.564.desc=How much do you think these solar panels weigh? %n%nThese are quite expensive and two of them are required for each Tier Ten Micro Miner.%n%n§6Neutronium Solar Panels§r generate an enormous amount of RF power in sunlight, so once you get your tank it's also a good choice for compact power generation.%n%nProtip: it's always daytime in space.
+nomifactory.quest.db.564.desc=これらのソーラーパネルの重さはどれくらいだと思いますか？%n%nこれらは非常に高価であり、そのうちの2つは各ティアテンマイクロマイナーに必要です。%n%n§6ニュートロニウムソーラーパネル§rは日光の下で膨大な量のRF電力を生成するので、タンクを手に入れたら、コンパクトな発電にも適しています。%n%%nProtip:それは常に宇宙で昼間です。
 
 # db 580
 nomifactory.quest.db.580.title=Blast Furnaces Galore
-nomifactory.quest.db.580.desc=As you continue to progress, crafting times for more advanced §3Electric Blast Furnace§r recipes will continue to increase. More advanced coils do not give speed bonuses, they just increase the operating temperature so you can smelt more advanced materials.%n%nTo compensate, you'll need to get your infrastructure for smelting, as well as for power generation, up to snuff.%n%nYou don't need to get all eight of these completed and running just yet, but plan to at some point in the future. Instead of upgrading existing EBFs, have them passively automating a stock of materials and build new EBFs with higher specifications for new materials.%n%n
+nomifactory.quest.db.580.desc=あなたが進歩し続けるにつれて、より高度な§3Electric Blast Furnace§rレシピの作成時間は引き続き増加します。より高度なコイルはスピードボーナスを与えず、より高度な材料を嗅ぐことができるように動作温度を上げるだけです。%n%n補償するには、製錬のためのインフラストラクチャと発電のために、スナッフまで取得する必要があります。%n%nこれらの8つをすべてまだ完了して実行する必要はありませんが、将来のある時点で計画してください。既存のEBFをアップグレードする代わりに、材料の在庫を受動的に自動化し、新しい材料のより高い仕様を持つ新しいEBFを構築します。%n%n
 
 # db 582
 nomifactory.quest.db.582.title=Fluxed Electrum Ingots（フラックス化エレクトラムインゴット）
