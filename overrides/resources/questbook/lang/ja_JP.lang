@@ -1557,23 +1557,23 @@ nomifactory.quest.db.416.desc=§9Fish Oil§r comes from, surprisingly, fish.%n%n
 
 # db 417
 nomifactory.quest.db.417.title=Combination Package Crafter
-nomifactory.quest.db.417.desc=A much more efficient version of the §3Empowerer§r.%n%nThis is a digital upgrade to the §3Crafting Core§r, allowing you to craft Empowerer recipes directly through §bPackagedAuto§r.%n%nThe §aMarked Pedestals§r can be placed freely within three blocks distance of the Crafting block, as long as they are on the same Y-level.%n%nAs usual with PackagedAuto crafters, you need to encode the recipe in the correct mode and place a copy in two places: a §3Packager§r somewhere on your network, and an §3Unpackager§r adjacent to the §3Combination Package Crafter§r.%n%nThese recipes require large amounts of RF and it §ewill not use power from your §aME Network§r, so you must also connect the package crafter directly to energy conduits.
+nomifactory.quest.db.417.desc=§3Empowerer§r.%n%nこれは§3Crafting Core§rへのデジタルアップグレードであり、§bPackagedAuto§r.%n%n§aMarked Pedestals§rを介して直接Empowererレシピを作成できます。§aMarked Ped Pedestals§rは、同じYレベルにある限り、クラフトブロックから3ブロックの3ブロックの距離内に自由に配置できます。%nPackedAutoクラフターの場合と同様に、正しいモードでレシピをエンコードし、§3Packager§rと§3Combination Package Crafter§rに隣接する§3Unpackager§r§r。%n%nこれらのレシピは大量のRFを必要とし、§aME Network§rからの電力を使用しないので、パッケージクラフターをエネルギーコンジットに直接接続する必要があります。
 
 # db 488
 nomifactory.quest.db.488.title=Basic Satchel
-nomifactory.quest.db.488.desc=Useful to carry more stuff.%n%nWhat more explanation are you expecting?
+nomifactory.quest.db.488.desc=より多くのものを運ぶのに便利です。%n%nこれ以上どんな説明を期待していますか？
 
 # db 489
 nomifactory.quest.db.489.title=LV Compressor
-nomifactory.quest.db.489.desc=You'll need a §3Compressor§r for a variety of things, but probably most importantly is the ability to make many kinds of plates from a single ingot.
+nomifactory.quest.db.489.desc=さまざまなものには§3Compressor§rが必要ですが、おそらく最も重要なのは、1つのインゴットから多くの種類のプレートを作る能力です。
 
 # db 490
 nomifactory.quest.db.490.title=LV Autoclave
-nomifactory.quest.db.490.desc=An §3Autoclave§r is a machine that uses liquids (usually water) to polish stones, carve gems into lenses, infuse gems with special liquids, and crystallize various dusts.%n%nYou'll need an Autoclave for many recipes, but right now you want it to make §6Certus Quartz Crystals§r for §bApplied Energistics§r out of the §bGregTech§r §6Certus Quartz§r and its dust you get from mining and ore processing.
+nomifactory.quest.db.490.desc=§3Autoclave§rは、液体(通常は水)を使用して石を磨き、宝石をレンズに彫り、宝石に特別な液体を注入し、さまざまなほこりを結晶化する機械です。%n%n多くのレシピにはオートクレーブが必要ですが、今、§bGregTech§6Certus Quartz§rと採掘と鉱石処理から得られるほこりから§bApplied Energistics§rの§rの§6Certus Quartzs§rを作りたいと考えています。
 
 # db 491
 nomifactory.quest.db.491.title=Veinmining Trees?
-nomifactory.quest.db.491.desc=§aLumberaxes§f are tools that cut all connected blocks of the same kind (usually referred to as "§eveinmining§f") that require an axe. These are primarily intended to §echop down entire trees§f, but you can use them to veinmine other wooden blocks too.%n%n§l§c§lKeep in mind that the veinmining feature doesn't get disabled when sneaking!§r%n%nPlease be careful to not veinmine your entire Storage Drawers network; this WILL end in tears.
+nomifactory.quest.db.491.desc=§aLumberaxes§fは、斧を必要とする同じ種類の接続されたすべてのブロック(通常は「§eveinmining§f」と呼ばれる)を切断するツールです。これらは主に木全体§fを下ろすことを目的としていますが、他の木製ブロックも静脈瘤に使用できます。%n%n§l§c§lこっそりしても静脈採掘機能は無効にならないことに注意してください!§R%n%%nストレージドロワーネットワーク全体を静脈化しないように注意してください。これは涙で終わります。
 
 # db 492
 nomifactory.quest.db.492.title=Drill Baby Drill
