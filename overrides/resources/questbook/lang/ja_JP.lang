@@ -1425,95 +1425,95 @@ nomifactory.quest.db.367.desc=§oNow this is not the end. It is not even the beg
 
 # db 368
 nomifactory.quest.db.368.title=Grappling Hook
-nomifactory.quest.db.368.desc=A §aGrappling Hook§f is very useful in an urban environment.%n%nThere are lots of ways to upgrade and improve your Grappling Hook, so play around with it.%n%nOpen your inventory and look for the Baubles button, click it to reveal the additional bauble slots and put the Hook there.%n%nThe default key is §6C§r, however since quite a lot of mods occupy this hotkey you'll need to visit the controls menu to resolve the button conflicts.
+nomifactory.quest.db.368.desc=§aGrappling Hook§fは都市環境で非常に役立ちます。%n%nGrappling Hookをアップグレードして改善する方法はたくさんありますので、それで遊んでください。%n%n在庫を開き、Baublesボタンを探し、クリックして追加のボーブルスロットを表示し、そこにフックを置きます。%n%nデフォルトのキーは§6C§rですが、かなりの数のMODがこのホットキーを占めているため、ボタンの競合を解決するにはコントロールメニューにアクセスする必要があります。
 
 # db 370
 nomifactory.quest.db.370.title=Charcoal
-nomifactory.quest.db.370.desc=No hoops to jump through here. Smelt §6Wood Logs§f to get §6Charcoal§f. It will serve you well as a fuel source until you locate a vein of §6Coal§f.%n%nYou might want to craft Charcoal into §6Tiny Charcoal§f pieces to save some fuel. One tiny piece is enough to smelt exactly one item. Just put charcoal into the crafting grid to make some!
+nomifactory.quest.db.370.desc=ここを飛び越えるフープはありません。§6Wood Logs§fを製錬して§6Charcoal§fを取得します。§6Coal§f.%n%nの静脈を見つけるまで、燃料源として役立ちます。燃料を節約するために、木炭を§6Tiny Charcoal§fピースに作りたいと思うかもしれません。1つの小さなピースは、正確に1つのアイテムの匂いを嗅ぐのに十分です。木炭をクラフトグリッドに入れて作ってください！
 
 # db 371
 nomifactory.quest.db.371.title=Rubber Soft Hammer
-nomifactory.quest.db.371.desc=A §aRubber Soft Hammer§f can be used to temporarily stop a machine from functioning. This is useful when you have two machines running and both are unable to keep going because of a lack of power... let one finish then turn the other one back on with a second hit from the hammer.
+nomifactory.quest.db.371.desc=§aRubber Soft Hammer§fは、機械が一時的に機能するのを止めるために使用できます。これは、2台のマシンが稼働していて、両方とも電力不足のために進み続けることができない場合に便利です...一方を仕上げてから、ハンマーから2回目のヒットでもう一方をオンに戻します。
 
 # db 384
 nomifactory.quest.db.384.title=Elite Component
-nomifactory.quest.db.384.desc=A component used for more advanced items related to §bExtended Crafting§r.
+nomifactory.quest.db.384.desc=§bExtended Crafting§rに関連するより高度な項目に使用されるコンポーネント。
 
 # db 385
 nomifactory.quest.db.385.title=Elite Catalyst
-nomifactory.quest.db.385.desc=Again, combining a few Components will make a Catalyst.
+nomifactory.quest.db.385.desc=繰り返しになりますが、いくつかのコンポーネントを組み合わせるとCatalystになります。
 
 # db 386
 nomifactory.quest.db.386.title=Elite Extended Crafting Table
-nomifactory.quest.db.386.desc=This table allows you to craft 7x7 Extended Crafting Table recipes.
+nomifactory.quest.db.386.desc=この表では、7x7の拡張クラフトテーブルのレシピを作ることができます。
 
 # db 387
 nomifactory.quest.db.387.title=Ultimate Catalyst
-nomifactory.quest.db.387.desc=Combine several components into a catalyst.
+nomifactory.quest.db.387.desc=いくつかの成分を触媒に結合します。
 
 # db 388
 nomifactory.quest.db.388.title=Ultimate Component
-nomifactory.quest.db.388.desc=Used for Ultimate tier §bExtended Crafting§r.%n%nDon't worry if you can't make these for a while. You'll probably get to them around IV power.
+nomifactory.quest.db.388.desc=Ultimate tierに使用 §bExtended Crafting§r.%n%nしばらくこれらを作成できない場合は心配しないでください。あなたはおそらくIVパワーの周りに彼らにたどり着くでしょう。
 
 # db 389
 nomifactory.quest.db.389.title=Ultimate Extended Crafting Table
-nomifactory.quest.db.389.desc=This is the largest Extended Crafting Table, capable of handling 9x9 recipes.
+nomifactory.quest.db.389.desc=これは、9x9のレシピを扱うことができる最大の拡張クラフトテーブルです。
 
 # db 390
 nomifactory.quest.db.390.title=Energetic Infuser
-nomifactory.quest.db.390.desc=Infuses things with Redstone Flux.%n%nThis is useful for charging RF-powered devices, but it also can also charge §6Rich Phyto-Gro§r into §6Fluxed Phyto-Gro§r, and charge §6Certus Quartz Crystals§r into §6Charged Certus Quartz Crystals§r.
+nomifactory.quest.db.390.desc=INfuses things with Redstone Flux.%n%%これはRF駆動デバイスを充電するのに便利ですが、§6Rich Phyto-Gro§rを§6Fluxed Phyto-Gro§rに充電し、§6Certus Quartz Crystals§rを§6Charged Certus Quartz Crystals§rに充電することもできます。
 
 # db 391
 nomifactory.quest.db.391.title=Craftable Nether Stars
-nomifactory.quest.db.391.desc=ASSEMBLE... TOO!%n%nYeah you get to craft §6Nether Stars§r. Cool huh?%n%nOver the course of the pack, Nether Stars are going to be needed in quantities that far exceed a reasonable player's ability to farm Withers. §eCraft them, don't bother trying to farm them.
+nomifactory.quest.db.391.desc=A組み立てる...も!%n%nはい、あなたは§6Nether Stars§rを作ることができます。かっこいい？%N%nパックの過程で、ネザースターズはウィザーを養殖する合理的なプレーヤーの能力をはるかに超える量で必要になります。 §eクラフト、わざわざそれらを養殖しようとしないでください。
 
 # db 392
 nomifactory.quest.db.392.title=UHV Circuit...s?
-nomifactory.quest.db.392.desc=Congratulations! You've reached the end of the circuit progression.%n%nThe only UHV circuit is the §6Wetware Mainframe§r, which is used for crafting high-tier micro miners among some endgame stuff.
+nomifactory.quest.db.392.desc=おめでとうございます！あなたは回路進行の終わりに達しました。%n%%n唯一のUHV回路は、いくつかのエンドゲームのものの中で高級マイクロマイナーを作るために使用される§6Wetware Mainframe§rです。
 
 # db 393
 nomifactory.quest.db.393.title=Claim Your Chunks and Invite Teammates!
-nomifactory.quest.db.393.desc=You might be wondering what chunkloading options there are in the pack.%n%nOpen your inventory and look at the top-left corner of the screen. Click the map-looking icon called §eClaimed Chunks§r.%n%n§6Click a chunk§r to claim it as yours. This will prevent unwanted creeper explosions and other players from interacting with your base.%n%n§6Shift-left click a claimed chunk§r to load it. This will ensure that the chunk is loaded at all times, even when you're not there. Alternatively, there are §achunk-loading wards§f from §bExtra Utilities§f.%n%n§eIf you're playing on a server with custom settings, ask the server owner what methods are available§f.%n%nTo invite players to your §bFTB Utils§f party, look for a corresponding button in the same corner. Parties share claimed chunks with each other. You can configure permissions for your party's claimed chunks in the party settings menu.
+nomifactory.quest.db.393.desc=パックにどのようなチャンクロードオプションがあるのか疑問に思うかもしれません。%n%n在庫を開き、画面の左上隅を見てください。§eClaimed Chunks§r.%n%n§6という地図のようなアイコンをクリックします。chunk§rをクリックして、あなたのものとして主張します。これにより、不要なクリーパーの爆発や他のプレイヤーがベースと対話するのを防ぎます。%n%n§6Shift-主張されたchunk§rを左クリックしてロードします。これにより、あなたがそこにいなくても、チャンクが常に読み込まれることを保証します。または、§bExtra Utilities§f.%n%n§eから§achunk-loading wards§fがあります。カスタム設定でサーバーでプレイしている場合は、サーバーの所有者に利用可能なメソッドを尋ねます§f.%n%n§bFTB Utils§f パーティーにプレイヤーを招待するには、同じコーナーで対応するボタンを探します。当事者は主張されたチャンクを互いに共有する。パーティーの設定メニューで、パーティーの請求チャンクのアクセス許可を設定できます。
 
 # db 394
 nomifactory.quest.db.394.title=Flux Capacitors
-nomifactory.quest.db.394.desc=Basic §aFlux Capacitors§r hold a whopping lot of energy - §a10 million RF§r - and are useful for keeping your §aRF-powered§r equipment and tools charged.%n%nPut one into your newly crafted §3CEF§r to charge it. You can then put it in your inventory to charge your items with §aRF§r, or you can leave it in the CEF to act as a §a2.5 million EU§r battery!%n%nFlux Capacitor is a §bBauble§r, open your inventory and look for the Baubles button, click it to reveal the additional bauble slots menu and put it into any slot you wish.%n%nFinally you can charge up all those depleted §6Dark Boots§r and §6The Ender§r swords you've looted.
+nomifactory.quest.db.394.desc=基本的な§aFluxコンデンサ§rは、なんと多くのエネルギー(§a1000万RF§r)を保持し、§aRF駆動§r機器とツールを充電しておくのに役立ちます。%n%n新しく作成された§3CEF§rに1つを投入して充電します。その後、在庫に入れて§aRF§rでアイテムを充電することも、CEFに残して§250万EU§rバッテリーとして機能することもできます。%n%nFluxコンデンサは§bBauble§rです。在庫を開いてBaublesボタンを探し、それをクリックして追加のつまらないスロットメニューを表示し、任意のスロットに入れます。%n%n最後に、あなたが略奪したすべての枯渇した§6Dark Boots§rと§6The Ender§r剣を充電することができます。
 
 # db 395
 nomifactory.quest.db.395.title=Quantum Flux
-nomifactory.quest.db.395.desc=Very fluxy.%n%nA reagent used in the majority of §6Micro Miner§r missions.%n%nThere are several ways to produce §6Quantum Flux§r. All are viable, so figure out which one works best for you.
+nomifactory.quest.db.395.desc=非常に流動的です。§6Micro Miner§rミッションの大部分で使用される%n%%nA試薬。%%n§6Quantum Flux§rを生成するにはいくつかの方法があります。すべて実行可能なので、どちらがあなたにとって最適かを把握してください。
 
 # db 397
 nomifactory.quest.db.397.title=Creative RF Source
-nomifactory.quest.db.397.desc=A single-block solution to all your power needs.%n%nThis baby pushes out 2.14 GRF/t per side.
+nomifactory.quest.db.397.desc=すべての電力ニーズに対応するシングルブロックソリューション。%n%nこの赤ちゃんは、片側あたり2.14 GRF / tを押し出します。
 
 # db 398
 nomifactory.quest.db.398.title=Multi Smelter
-nomifactory.quest.db.398.desc=The §3Multi Smelter§r is an absolute smelting unit, and is most likely the best furnace added by a mod.%n%nIt's a 3x3x3 multiblock machine capable of §esmelting huge amounts of items per second§r. By upgrading its coils and power tier, it can become capable of smelting up to literal thousands of items per second.%n%nHover over different coil blocks: the higher the §elevel§r, the more items a Multi Smelter can smelt per operation: §e32 items per level§r. The most basic Multi Smelter essentially does 32 items in the same time as a furnace does one. With a set of level 4 coil blocks, that jumps to 128 items per operation.%n%nThis quest doesn't ask for coils, hatches or buses: feel free to choose whatever combination you want. You'll need §a8 coil blocks§r, §a1 input bus§r, §a1 output bus§r and at least §a1 energy hatch§r of any tier.%n%n
+nomifactory.quest.db.398.desc=§3Multi Smelter§rは絶対的な製錬ユニットであり、おそらくmod.%n%nによって追加された最高の炉です。これは、毎秒§rの膨大な量のアイテムを§meltingできる3x3x3マルチブロックマシンです。コイルと電力層をアップグレードすることで、毎秒文字通り数千個のアイテムを製錬することができます。%n%n異なるコイルブロックにホバーします。§elevel§rが高いほど、マルチ製錬所が操作ごとにより多くのアイテムを製錬できます。level§rあたり§32アイテム。最も基本的なマルチ製錬所は、本質的に炉と同じ時間に32のアイテムを行います。レベル4のコイルブロックのセットで、操作ごとに128アイテムにジャンプします。%n%nこのクエストは、コイル、ハッチ、またはバスを求めません。任意の組み合わせを自由に選択できます。§A8コイルブロック§r、§a1入力bus§r、§a1出力bus§r、および任意の層の少なくとも§a1エネルギーハッチ§rが必要です。%n%n
 
 # db 399
 nomifactory.quest.db.399.title=Plasma Turbine
-nomifactory.quest.db.399.desc=§3Large Plasma Turbines§r are a powerful late game method of generating power. One Large Plasma Turbine can produce nearly 41800 EU/t when using an §aLuV Rotor Holder§r and equipped with §a100%% efficiency§r rotor.%n%nOne §3Mark 1 Fusion Reactor§r dedicated to producing §bOxygen Plasma§r can provide sufficient fuel for continuously operating 16 Large Plasma Turbines, resulting in a combined production of roughly 670000 EU/t. Granted, this is a decent amount of infrastructure.%n%nDon't rely on §bJEI§r too much when looking for the best plasma: fuels are displayed in a very misleading manner. A Large Plasma Turbine consumes up to nearly 16 buckets of plasma to run a cycle for the duration specified in JEI, and takes some time to spin up to full power.
+nomifactory.quest.db.399.desc=§3大型プラズマタービン§rは、電力を生成する強力な後期ゲーム方法です。1つの大型プラズマタービンは、§aLuVローターホルダー§rを使用し、§a100%%効率§rローターを装備すると、ほぼ41800 EU / tを生成することができます。%n%n§bOxygen Plasma§rの製造に特化した§3Mark 1 Fusion Reactor§rは、16個の大型プラズマタービンを継続的に動作させるのに十分な燃料を供給できるため、約670000 EU / tの複合生産をもたらします。確かに、これはまともな量のインフラストラクチャです。%n%%n最高のプラズマを探すときは、§bJEI§rにあまり頼らないでください。燃料は非常に誤解を招く方法で表示されます。大型プラズマタービンは、JEIで指定された期間サイクルを実行するために最大約16バケットのプラズマを消費し、フルパワーまでスピンするのに時間がかかります。
 
 # db 400
 nomifactory.quest.db.400.title=I Don't Like Space
-nomifactory.quest.db.400.desc=Space exploration isn't mandatory in this pack, so if you don't feel like exploring space with §bAdvanced Rocketry§r, then you can centrifuge §9Hydrogen§r for §eDeuterium§r instead.%n%nJust keep in mind that it's much less rewarding to skip this and you'll need lots of Hydrogen to compensate, although you won't need too much for the first §3Microverse Projector§r.
+nomifactory.quest.db.400.desc=このパックでは宇宙探査は必須ではないので、§bAdvanced Rocketry§rで宇宙を探索する気がしない場合は、代わりに§eDeuterium§rの§9Hydrogen§rを遠心分離することができます。%n%nこれをスキップすることははるかにやりがいが少なく、補償するために多くの水素が必要になることに注意してくださいが、最初の§3Microverse Projector§rにはあまり必要ありません。
 
 # db 401
 nomifactory.quest.db.401.title=Proper Tool Care
-nomifactory.quest.db.401.desc=§3Anvils§f can be used to repair almost all §bGregTech tools§f!%n%nYou might want to get yourself an anvil instead of breaking and crafting new tools every time. Anvils§f spawn abundantly in §bLost Cities§f buildings, so go and snatch one!%n%nPut a damaged tool inside and put some material it's made of. For example, you'll need to put §6Wrought Iron Ingots§f to repair tools made of §6Wrought Iron§f. The only tools unable to be repaired are the mortar and the plunger.
+nomifactory.quest.db.401.desc=§3Anvils§fは、ほぼすべての§bGregTechツール§fを修復するために使用できます!%N%n毎回新しいツールを壊して作るのではなく、アンビルを手に入れたいと思うかもしれません。Anvils§fは§bLost Cities§fの建物に豊富に産卵するので、行って1つを奪ってください!%N%n損傷したツールを中に入れて、それが作った材料を入れます。たとえば、§6Wrought Iron§fで作られたツールを修理するには、§6Wrought Iron Ingots§fを入れる必要があります。修理できないのはモルタルとプランジャーだけです。
 
 # db 402
 nomifactory.quest.db.402.title=Machine Covers
-nomifactory.quest.db.402.desc=§bGregTech§r adds a very versatile way of augmenting machines with §aMachine Covers§r. Covers are "upgrades" that you can put on any GregTech machine, chest, or drum to expand its functionality. To work with covers, you'll need to make yourself a §aScrewdriver§r to configure covers, and a §aCrowbar§r to remove covers without having to break the machine.%n%nHere's a list of some covers there are in the game, and what they do:%n%n- §a§lConveyor§r: transfers items continuously to or from an adjacent inventory.%n%n- §a§lPump§r: is much like a §aConveyor§f, but for fluids.%n%n- §a§lRobotic Arm§r: is much like §aConveyor§r, but has two additional modes:%n    * §eKeep Exact§r: moves items to keep a stock of at most the specified number of items%n    * §eSupply Exact§r: transfers precisely the specified number of items per operation.%nThis cover is very useful for crafting automation.%n%n- §a§lFluid Regulator§r: is like a §aRobotic Arm§r, but works with fluids instead of items.%n%n- §a§lShutter§r: prevents automation from interacting with a specific side of a machine.%n%nCovers that move items or fluids can have a §aFilter§r placed inside them. These modify the functionality of covers in ways explained in their own quests.%n
+nomifactory.quest.db.402.desc=§bGregTech§rは、§aMachine Covers§rで機械を増強する非常に汎用性の高い方法を追加します。カバーは、GregTechマシン、チェスト、またはドラムに装着して機能を拡張できる「アップグレード」です。カバーを扱うには、カバーを設定する§aScrewdriverを作成し、マシンを壊すことなくカバーを削除する§aCrowbar§rを作成する必要があります。%n%nゲーム内にあるいくつかのカバーのリストと、およびそれらが何をするか：%n%n-§a§lConveyor§r：隣接するインベントリにアイテムを連続的に転送します。%n%操作ごとのアイテム数。%nこのカバーは、自動化の作成に非常に便利です。%nn- §a§lFluid Regulator§r: §aRobotic Arm§rに似ていますが、アイテムの代わりに流体で動作します。%n%n- §a§lShutter§r: 自動化がマシンの特定の側面と相互作用するのを防ぎます。%n%nアイテムや流体を移動するカバーは、§aFilter§rを内部に配置できます。これらは、独自のクエストで説明されている方法でカバーの機能を変更します。%n
 
 # db 403
 nomifactory.quest.db.403.title=Screwdrive Output Sides!
-nomifactory.quest.db.403.desc=All GregTech machines have one dedicated output side, which can be set by right-clicking a side with a §aGregTech Wrench§f. This is used for ejecting items into an adjacent inventory.%n%nTo enable auto-output, open the machine GUI and click one of the buttons in the bottom-left corner: §6orange§r is items and §9blue§r is fluids.%n%nIf you want to also be able to insert items into the output side, you'll have to right-click the output side with a §aGregTech Screwdriver§r.%n%nThis can be done by directly right clicking on the output side with a screwdriver, or §6shift right-clicking§r with a screwdriver from the machine grid.%n%nThese features can be used to chain machines together to make processing pipelines and facilitate crafting automation with §bApplied Energistics 2§f.
+nomifactory.quest.db.403.desc=すべてのGregTechマシンには1つの専用出力側があり、§aGregTech Wrench§fで側を右クリックして設定できます。これは、隣接するインベントリにアイテムを排出するために使用されます。%n自動出力を有効にするには、マシンGUIを開き、左下隅のボタンの1つをクリックします。§6orange§rはアイテムであり、§9blue§rは流体です。%n%n出力側にアイテムを挿入できるようにするには、§aGregTech Screwdriverで出力側を右クリックする必要があります。2§f。
 
 # db 404
 nomifactory.quest.db.404.title=Simple GregTech Automation
-nomifactory.quest.db.404.desc=You can easily automate most §bGregTech§r machines with §aME Interfaces§r and processing §aPatterns§r early on by using the machines' auto-output feature.%n%nUse a §aGregTech Wrench§r to relocate the output side of a machine where you want it to be, right-click it with a §aGregTech Screwdriver§r to permit input on the output face, then put an ME Interface on that side of the machine.%n%nYou can also permit input from the output side by shift-right-clicking with a screwdriver on the output side via the machine grid.%n%nRight-click the machine and enable item auto-output (§6orange box§r in the bottom-left corner of the GUI).%n%nNow, stuff the ME Interface with processing patterns. The next time you order an item, the ME Interface will push ingredients into the machine, and the machine will push outputs back into the Interface once they're ready, completing the craft. No need to use conduits or import buses!
+nomifactory.quest.db.404.desc=マシンの自動出力機能を使用して、§aME Interfaces§rを使用して、§aPatterns§rを使用してほとんどの§bGregTech§rマシンを簡単に自動化できます。%n%n§aGregTech Wrench§rを使用して、マシンの出力側を移動し、§aGregTech Screwdriverで右クリックして出力面への入力を許可し、処理パターンとのMEインターフェース。次回アイテムを注文すると、MEインターフェイスは材料をマシンに押し込み、準備ができたらマシンは出力をインターフェイスに押し戻し、クラフトを完了します。導管や輸入バスを使用する必要はありません!
 
 # db 405
 nomifactory.quest.db.405.title=Crafting Calculator
